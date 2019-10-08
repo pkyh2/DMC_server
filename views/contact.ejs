@@ -6,13 +6,37 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <div class="image-cover" style="background-image: url('../images/distributed.jpg'); height: 400px;" >
-        <div class="main-text"><%= title %></div>
-        <div class="sub-text"><h4>Welcome <%= title %></h4></div>
-
-    </div>
-    <!-- <a href="/about">Go to About</a> -->
-    <%- include('partials/navbar') %>
-    <h1>Contact 페이지입니다!</h1>
+      <div><%- include('partials/navbar') %></div>
+      <div class="background">
+          <div class="main-title"><%= title %></div>
+          <div class="main-image">
+            <img src = '../images/main.png' width = "250px">
+          </div>
+      </div>
+      <div class="sub-title">Contact</div>
+      <div class="main-text">
+        Location
+      </div>
+      <div class="sub-image">
+          <img src = '../images/computing.jpg' width = "250px">
+      </div>
+      <div class="sub-text">
+        <p>아주대학교 산학원 534호 분산이동통신 연구실</p>
+        <p>Ajou Univ. San-HakWon no.534, Distributed Mobile Computing Lab.</p>
+        <p>Tel. 031-219-1897 (교내 1897)</p>
+        <p>Email : saarc@ajou.ac.kr</p>
+      </div>
+      <div class="background-bot" id="grid">
+        <div class="bot-lefttext">
+        
+            <p>Copyright ⓒ 2019 DMC Lab. 모든 권리 보유.</p>
+            <p>주소 : 경기도 수원시 영통구 월드컵로 206 아주대학교 산학협력원 534호 분산이동컴퓨팅연구실</p>
+            <p>대표이사 : 김용현 | 대표전화 : 010-0000-0000 | 팩스 : 031-000-0000</p>                  
+        </div>
+        <div class="bot-righttext">
+          DMC Lab.
+        </div>
+      </div>
+      
   </body>
 </html>

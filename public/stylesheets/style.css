@@ -1,41 +1,81 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: "Lucida Grande", Helvetica, Arial, sans-serif;
+} 
+
+.background{
+  background-color: black;
+  height: 300px;
 }
-
-a {
-  color: #00B7FF;
-}
-
-/* index */
-
-.image-cover{
-  position: relative;
-  height: 400px;
-  background-image: url('../images/distributed.jpg');
-  /* background-position: 50% 45%; */
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-}
-
-.image-cover .main-text{
+.main-title{
   color: white;
-  position: absolute;
-  top: 30%;
-  left: 50%;
-  font-weight: 600;
-  transform: translate(-50%, -50%);
+  text-align: center;    
   font-size: 40px;
-  z-index: 2;
+  font-weight: 500;
+  padding: 20px;
 }
-
-.image-cover .sub-text{
-  color: white;
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 15px;
-  line-height: 25px;
-  z-index: 2;
+.main-image{
+  text-align: center;
+}
+.sub-title{
+  color:#282929;
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-bottom: 2px solid gray;
+  padding-bottom: 20px;
+}
+.main-text{
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+.sub-image{
+  text-align: center;
+  margin:30px;
+}
+.sub-text{
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+ul{
+  text-align: left;
+  display: inline-block;
+}
+.background-bot{
+  background-color: #e3e3e3;
+  height: 180px;
+  margin-top: 200px
+}
+#grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+}
+.bot-lefttext{
+  color:gray;
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 40px;
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+.bot-righttext{
+  text-align: right;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 60px;
+  margin-right: 100px;
+}
+.member-image{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.member-text{
+  margin-left: 300px;
 }

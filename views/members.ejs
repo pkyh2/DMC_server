@@ -6,13 +6,42 @@
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <div class="image-cover" style="background-image: url('../images/distributed.jpg'); height: 400px;" >
-        <div class="main-text"><%= title %></div>
-        <div class="sub-text"><h4>Welcome <%= title %></h4></div>
-
-    </div>
-    <!-- <a href="/about">Go to About</a> -->
-    <%- include('partials/navbar') %>
-    <h1>Members 페이지입니다!</h1>
+      <div><%- include('partials/navbar') %></div>
+      <div class="background">
+          <div class="main-title"><%= title %></div>
+          <div class="main-image">
+            <img src = '../images/main.png' width = "250px">
+          </div>
+      </div>
+      <div class="sub-title">Members</div>
+      <div class="main-text">
+        DMC Members
+      </div>
+      <div class="sub-image">
+          <img src = '../images/computing.jpg' width = "250px">
+      </div>
+      <div class="member-image">
+          <a href="/members1"><img src = '../images/3.jpg' width = "120px"></a>
+          <img src = '../images/5.jpg' width = "120px">
+          <img src = '../images/6.jpg' width = "120px">
+          <img src = '../images/4.jpg' width = "120px">
+          <img src = '../images/2.jpg' width = "120px">
+          <img src = '../images/1.jpg' width = "120px">
+      </div>
+            
+        
+      
+      <div class="background-bot" id="grid">
+        <div class="bot-lefttext">
+        
+            <p>Copyright ⓒ 2019 DMC Lab. 모든 권리 보유.</p>
+            <p>주소 : 경기도 수원시 영통구 월드컵로 206 아주대학교 산학협력원 534호 분산이동컴퓨팅연구실</p>
+            <p>대표이사 : 김용현 | 대표전화 : 010-0000-0000 | 팩스 : 031-000-0000</p>                  
+        </div>
+        <div class="bot-righttext">
+          DMC Lab.
+        </div>
+      </div>
+      
   </body>
 </html>

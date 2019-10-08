@@ -1,19 +1,41 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-item nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-        <a class="nav-item nav-link" id="test" href="/about">About</a>
-        <a class="nav-item nav-link" href="/contact">Contact</a>
-        <a class="nav-item nav-link" href="/members">Members</a>
-        <a class="nav-item nav-link" href="/papers">Papers</a>
-        <a class="nav-item nav-link" href="/papers">test</a>
-        <a class="nav-item nav-link" href="/papers">test</a>
+<div id="custom-nav">    
+  <div class="custom-nav-text">
+    <a href="/" id="home">
+      <span class="hometext">
+        DMC
+      </span>
+      <img src = '../images/laptop.png' width = "23px">
+    </a>
+        
+    <a href="/about">about</a>
+    <a href="/contact">contact</a>
+    <a href="/members">members</a>
+    <a href="/papers">papers</a>
+  </div>
+</div>
 
-        <!-- <a class="nav-item nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> -->
-      </div>
-    </div>
-  </nav>
+<style>
+  #custom-nav{
+    background-color: #3a5063;
+    height: 50px;
+  }
+  #home{
+    font-size: 18px;
+    font-weight: 500;
+  }
+    
+  .custom-nav-text{
+    font-size: 16px;
+    text-align: center;
+    padding: 14px;
+    word-spacing: 100px;
+    font-weight: 500;
+  }  
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  .hometext{
+    word-spacing: 0;
+  }  
+</style>

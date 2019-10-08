@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <%- include('partials/head') %>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+      <div><%- include('partials/navbar') %></div>
+      <div class="background">
+          <div class="main-title"><%= title %></div>
+          <div class="main-image">
+            <img src = '../images/main.png' width = "250px">
+          </div>
+      </div>
+      <div class="sub-title">Members</div>
+      <div class="main-text">
+        DMC Members
+      </div>
+      <div class="sub-image">
+          <img src = '../images/computing.jpg' width = "250px">
+      </div>
+      <!-- 선택한 이미지 외에 나머지 이미지에 흰색 투명 배경 넣기 
+           이미지 Size 통일-->
+      <div class="member-image"> 
+            <img src = '../images/3.jpg' width = "120px">
+            <img src = '../images/5.jpg' width = "120px">
+            <img src = '../images/6.jpg' width = "120px">
+            <img src = '../images/4.jpg' width = "120px">
+            <img src = '../images/2.jpg' width = "120px">
+            <img src = '../images/1.jpg' width = "120px">
+      </div>
+      <div class="member-text">
+            <h6>Dr.Kim Jal-Hoon</h6>
+            <p>Professor, School of Information & Computer Engineering Ajou University, South Korea</p>
+            <p>Academic Acvisor of Distributed & Mobile Computing Lab.</p>
+            <p></p>
+            <p>Office : Room No. 514, Sanhak Hall, Ajou University</p>
+            <p>Email : jaikim@ajou.ac.kr</p>
+            <p>Phone : +82-31-219-2546</p>
+      </div>  
+      <div class="background-bot" id="grid">
+        <div class="bot-lefttext">
+        
+            <p>Copyright ⓒ 2019 DMC Lab. 모든 권리 보유.</p>
+            <p>주소 : 경기도 수원시 영통구 월드컵로 206 아주대학교 산학협력원 534호 분산이동컴퓨팅연구실</p>
+            <p>대표이사 : 김용현 | 대표전화 : 010-0000-0000 | 팩스 : 031-000-0000</p>                  
+        </div>
+        <div class="bot-righttext">
+          DMC Lab.
+        </div>
+      </div>
+      
+  </body>
+</html>
+
+<!-- members page에서 이미지에다 링크를 줘서 링크를 클릭하면 나머지 이미지는 흐리게하고
+선택한 이미지 아래 쪽에 설명이 쓰여지게 할려고하는데
+링크를 눌렀을때 저는 지금 새로운 페이지를 만들었거든요 근데 이게 인원수대로하면 페이지가 많아져서 안좋을꺼같은데
+새로운 페이지 안만들고 구성하는 방법이 있는지.. -->
