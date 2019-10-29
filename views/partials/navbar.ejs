@@ -1,41 +1,33 @@
-<div id="custom-nav">    
-  <div class="custom-nav-text">
-    <a href="/" id="home">
-      <span class="hometext">
-        DMC
-      </span>
-      <img src = '../images/laptop.png' width = "23px">
-    </a>
-        
-    <a href="/about">about</a>
-    <a href="/contact">contact</a>
-    <a href="/members">members</a>
-    <a href="/papers">papers</a>
+<div class="nav">
+  <div class="logo" style="color: black;">
+    <a href="/" class="nav-content" style="font-weight: 500; margin-left: 0 !important;">DMC</a>
+    <a href="/about" class="nav-content">about</a>
+    <a href="/contact" class="nav-content">contact</a>
+    <a href="/team" class="nav-content">team</a>
+    <a href="/papers" class="nav-content">papers</a>
   </div>
+  </div>
+      
 </div>
 
 <style>
-  #custom-nav{
-    background-color: #3a5063;
-    height: 50px;
+  .nav{
+    top: 0px;
+    width: 100%;
+    left: 0px;
+    padding: 52px;
+    transition: opacity .2s ease-in-out;
   }
-  #home{
-    font-size: 18px;
-    font-weight: 500;
-  }
-    
-  .custom-nav-text{
-    font-size: 16px;
-    text-align: center;
-    padding: 14px;
-    word-spacing: 100px;
-    font-weight: 500;
-  }  
-  a{
-    color: white;
+  .nav-content{
     text-decoration: none;
+    font-size: 18px;
+    color: black;
+    margin-left: 40px;
+    font-weight: 200;
   }
-  .hometext{
-    word-spacing: 0;
-  }  
+
+  .nav-content:hover{
+    text-decoration-line: none;
+    color: #9ab9ca;
+  }
 </style>
