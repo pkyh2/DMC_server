@@ -4,7 +4,7 @@ var router = express.Router();
 /* GET home page. */
 router.get('/', function(req, res, next) {
   console.log("get test")
-  res.render('about', { title: 'Distributed Mobile Computing' });
+  res.render('project', { title: 'Distributed Mobile Computing' });
 });
 
 module.exports = router;
