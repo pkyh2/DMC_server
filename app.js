@@ -11,6 +11,8 @@ var teamRouter = require('./routes/team');
 // var memberRouter = require('./routes/members');
 // var member1Router = require('./routes/members1');
 var paperRouter = require('./routes/papers');
+var blueprintRouter = require('./routes/blueprint');
+var teamateRouter = require('./routes/teamate');
 
 
 var app = express();
@@ -32,6 +34,8 @@ app.use('/team', teamRouter)
 // app.use('/members', memberRouter);
 // app.use('/members1', member1Router);
 app.use('/papers', paperRouter);
+app.use('/blueprint', blueprintRouter);
+app.use('/teamate', teamateRouter);
 
 
 // catch 404 and forward to error handler

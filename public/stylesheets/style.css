@@ -1,11 +1,8 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
 
-
 body {
-  /* font: "Lucida Grande", Helvetica, Arial, sans-serif; */
   font-family: 'Noto Sans KR', 'Noto Sans', sans-serif;
-
 } 
 
 .background{
@@ -52,7 +49,7 @@ body {
   padding-left: 92px;
   padding-right: 92px;
   padding-top: 60px;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
 }
 
 ul{
@@ -158,7 +155,7 @@ ul{
 
 .container{
   border: 1px solid lightgray;
-  height: 240px;
+  /* height: 240px; */
   margin-top: 30px;
   padding: 30px 30px;
 }
@@ -174,6 +171,7 @@ ul{
   margin-top: 15px;
   line-height: 28px;
   color: gray;
+  font-weight: 300;
   text-align: justify;
 }
 
@@ -186,4 +184,43 @@ ul{
   margin-top: 20px;
   font-size: 18px; 
   margin-right: 8px; 
+}
+
+.show-more-btn {
+  border: 1px solid black;
+  padding: 20px 20px;
+  width: 300px;
+  height: 50px;
+  margin-top: 60px;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.show-more-btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.card-introduce {
+  position: relative;
+  /* width: 410px; */
+  vertical-align: top;
+  margin: 20px 15px;
+  display: inline-block;
+  text-align: left;
+  padding: 32px 35px;
+  box-sizing: border-box;
+  /* height: 200px; */
+  border-color: #ced4da !important;
+  border: .0625rem solid rgba(0, 0, 0, .08);
+  border-radius: .375rem;
+  background-color: transparent !important;
+  background-clip: border-box;
+}
+
+.card-introduce-body {
+  padding: 1rem;
+  flex: 1 1 auto;
 }
