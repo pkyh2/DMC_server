@@ -4,12 +4,11 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
+// routers
 var indexRouter = require('./routes/index');
 var projectRouter = require('./routes/project');
 var contactRouter = require('./routes/contact');
 var teamRouter = require('./routes/team');
-// var memberRouter = require('./routes/members');
-// var member1Router = require('./routes/members1');
 var paperRouter = require('./routes/papers');
 var blueprintRouter = require('./routes/blueprint');
 var teamateRouter = require('./routes/teamate');
@@ -31,8 +30,6 @@ app.use('/', indexRouter);
 app.use('/project', projectRouter);
 app.use('/contact', contactRouter);
 app.use('/team', teamRouter)
-// app.use('/members', memberRouter);
-// app.use('/members1', member1Router);
 app.use('/papers', paperRouter);
 app.use('/blueprint', blueprintRouter);
 app.use('/teamate', teamateRouter);
