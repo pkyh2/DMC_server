@@ -224,3 +224,38 @@ ul{
   padding: 1rem;
   flex: 1 1 auto;
 }
+
+.filter-btn {
+  padding: 5px 40px;
+  margin-right: 20px;
+  border: 1px solid #1f1f1f;
+  color: #1f1f1f;
+  font-size: 15px;
+}
+
+.filter-btn:hover {
+  background-color: #1f1f1f;
+  color: white;
+}
+
+.list:hover {
+  background-color: #fafafa;
+}
+
+.paper-title {
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.paper-writer {
+  font-size: 15px;
+  font-weight: 300;
+  color: gray;
+  margin-top: 10px;
+}
+
+.paper-info {
+  font-size: 15px;
+  font-weight: 300;
+  color: gray;
+}

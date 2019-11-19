@@ -11,7 +11,7 @@ router.get('/', function(req, res, next) {
   //   console.log(array[i]);
   // }
 
-  var jsonFile = fs.readFileSync('./public/files/test.json')
+  var jsonFile = fs.readFileSync('./public/files/papers.json')
   var obj = JSON.parse(jsonFile);
   var obj_length = Object.keys(obj.papers).length;
 

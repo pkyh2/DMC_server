@@ -22,15 +22,12 @@
       <button type="button" id="non-sci" class="filter-btn" name="button">NON-SCI</button>
     </div>
 
-    <div id="pivot"></div>
-
-
     <% for(var i=0; i<obj_length; i++) { %>
     <div class="row list" style="padding: 20px 25px;">
-      <div class="col-sm-2">
+      <div class="col-sm-1" style="text-align: center;" >
         <%= i+1 %>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <div class="paper-title">
           <%= papers.papers[i].title %>
         </div>
@@ -54,40 +51,3 @@
 </html>
 
 
-
-<style>
-  .filter-btn {
-    padding: 5px 40px;
-    margin-right: 20px;
-    border: 1px solid #1f1f1f;
-    color: #1f1f1f;
-    font-size: 15px;
-  }
-
-  .filter-btn:hover {
-    background-color: #1f1f1f;
-    color: white;
-  }
-
-  .list:hover {
-    background-color: #fafafa;
-  }
-
-  .paper-title {
-    font-size: 17px;
-    font-weight: 400;
-  }
-
-  .paper-writer {
-    font-size: 15px;
-    font-weight: 300;
-    color: gray;
-    margin-top: 10px;
-  }
-
-  .paper-info {
-    font-size: 15px;
-    font-weight: 300;
-    color: gray;
-  }
-</style>

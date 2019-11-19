@@ -10,6 +10,8 @@ var projectRouter = require('./routes/project');
 var contactRouter = require('./routes/contact');
 var teamRouter = require('./routes/team');
 var paperRouter = require('./routes/papers');
+var blockchainRouter = require('./routes/blockchain');
+
 var blueprintRouter = require('./routes/blueprint');
 var teamateRouter = require('./routes/teamate');
 
@@ -33,7 +35,7 @@ app.use('/team', teamRouter)
 app.use('/papers', paperRouter);
 app.use('/blueprint', blueprintRouter);
 app.use('/teamate', teamateRouter);
-
+app.use('/blockchain', blockchainRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
