@@ -1,0 +1,80 @@
+<html>
+
+<head>
+    <%- include('partials/head') %>
+    <title><%= title %></title>
+</head>
+
+<body>
+    <div class="section">
+        <h1>새로운 논문 추가</h1>
+        <input type="text" class="my-input" id="title" name="title" placeholder="논문 제목을 입력해주세요"> <br>
+        <input type="text" class="my-input" id="author" name="author" placeholder="논문 저자를 입력해주세요"> <br>
+        <input type="radio" name="isSCI" checked="checked" value="SCI" /> SCI
+        <input type="radio" style="margin-top: 30px; margin-left: 30px;" name="isSCI" value="NON-SCI" /> NON-SCI
+        <br>
+        <input type="text" class="my-input" id="info" name="info" placeholder="논문 정보를 입력해주세요"> <br>
+        <button type="submit" id="ajax_test" style="margin-top: 40px;" class="btn btn-primary"> 저장 </button>
+
+        <div id="new-list">
+            <div id="new-title"></div>
+            <div id="new-author"></div>
+            <div id="new-sci"></div>
+            <div id="new-info"></div>        
+            <br> ================================================== <br>
+        </div>
+
+        <% for(var i=rows.length-1; i>=0; i--) { %>
+        <div class="list">
+            <div id="result"></div>
+            <div id="list-title"> <%= rows[i].title %></div>
+            <div id="list-author"> <%= rows[i].author %></div>
+            <div id="list-sci"> <%= rows[i].isSCI %> </div>
+            <div id="list-info"> <%= rows[i].info %></div>
+            <br> ================================================== <br>
+        </div>
+        <% } %>
+    </div>
+</body>
+
+</html>
+<script>
+    $('#ajax_test').click(function () {
+        $.ajax({
+            url: 'http://localhost:3000/admin',
+            dataType: 'json',
+            type: 'POST',
+            data: { 
+                'title': $('#title').val(),
+                'author': $('#author').val(),
+                'isSCI': $("[name='isSCI']:checked").val(),
+                'info': $("#info").val()
+             },
+            success: function (result) {
+                if (result['result'] == true) {
+                    var $el = $("#new-list"),
+                        x = 2000,
+                        originalColor = $el.css("background");
+                    $el.css("background", "#dff0d8");
+                    setTimeout(function () {
+                        $el.css("background", "white");
+                    }, x);
+
+                    $('#new-title').html(result['title']);
+                    $('#new-author').html(result['author']);
+                    $('#new-sci').html(result['isSCI']);
+                    $('#new-info').html(result['info']);
+                }
+            }
+        });
+    })
+</script>
+
+<style>
+    .my-input {
+        margin-top: 20px;
+        width: 60%;
+        padding: 20px 25px;
+    }
+
+</style>
