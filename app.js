@@ -5,14 +5,6 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 
-// connection.query('SELECT 1 + 1 AS solution', function(err, rows, fields) {
-//   if (err) throw err;
-//   console.log('The solution is: ', rows[0].solution);
-// });
-
-// connection.end();
-
-
 // routers
 var indexRouter = require('./routes/index');
 var projectRouter = require('./routes/project');
@@ -20,9 +12,13 @@ var contactRouter = require('./routes/contact');
 var teamRouter = require('./routes/team');
 var paperRouter = require('./routes/papers');
 var blockchainRouter = require('./routes/blockchain');
-var adminRouter = require('./routes/admin');
+// var adminRouter = require('./routes/admin');
 var blueprintRouter = require('./routes/blueprint');
 var teamateRouter = require('./routes/teamate');
+var healthRouter = require('./routes/health');
+var networkRouter = require('./routes/network');
+var etherappRouter = require('./routes/etherapp');
+var energyRouter = require('./routes/energy');
 
 
 var app = express();
@@ -45,7 +41,12 @@ app.use('/papers', paperRouter);
 app.use('/blueprint', blueprintRouter);
 app.use('/teamate', teamateRouter);
 app.use('/blockchain', blockchainRouter);
-app.use('/admin', adminRouter);
+app.use('/health', healthRouter);
+app.use('/network', networkRouter);
+app.use('/etherapp', etherappRouter);
+app.use('/energy', energyRouter);
+
+// app.use('/admin', adminRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

@@ -9,41 +9,42 @@
 
 <body>
   <%- include('partials/navbar') %>
+
   <div class="section">
+
     <div class="page-title">
       Papers
     </div>
+
     <div style="text-align: left; margin-top: 60px; margin-bottom: 50px;">
       <button type="button" id="all" class="filter-btn active" name="button">전체</button>
       <button type="button" id="sci" class="filter-btn" name="button">SCI</button>
       <button type="button" id="non-sci" class="filter-btn" name="button">NON-SCI</button>
     </div>
-    
-    <% for(var i=0; i<rows.length; i++) { %>
+
+    <% for(var i=0; i<obj_length; i++) { %>
     <div class="row list" style="padding: 20px 25px;">
       <div class="col-sm-1" style="text-align: center;" >
-        <%= rows[i]._id %>
+        <%= i+1 %>
       </div>
       <div class="col-sm-11">
         <div class="paper-title">
-          <%= rows[i].title %>
+          <%= papers.papers[i].title %>
         </div>
-
         <div class="paper-writer">
-          <%= rows[i].author %>
+          <%= papers.papers[i].author %>
         </div>
         
         <div class="paper-info">
-          <%= rows[i].info %>
+          <%= papers.papers[i].info %>
         </div>
       </div>
     </div>
     <% } %>
+
   </div>
   <%- include('partials/footer') %>
 
 </body>
 
 </html>
-
-
