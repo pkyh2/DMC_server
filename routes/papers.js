@@ -33,3 +33,12 @@ router.get('/', function (req, res, next) {
 });
 module.exports = router;
 
+
+
+// INSERT INTO sandbox 
+
+// (name, value, note)
+
+// VALUES
+
+// ('def', 20, 'second');
