@@ -23,10 +23,6 @@ router.get('/', function(req, res, next) {
   });  
 });
 
-
-
-
-
 router.post('/', function (req, res, next) {
     var title = req.body.title;
     var author = req.body.author;
@@ -47,10 +43,5 @@ router.post('/', function (req, res, next) {
       }
       res.send({result: true, title: title, author: author, isSCI: isSCI, info: info});
     })
-
-
-
-
   })
-
 module.exports = router;
