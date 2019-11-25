@@ -49,7 +49,7 @@
             </div>
     
             <div style="text-align: center;">
-                <img src="./images/energy.png" height="500" width="830" alt="">
+                <img src="./images/energy.png" class="energy-image" alt="">
             </div>
 
 
@@ -62,7 +62,7 @@
 </html>
 
 <style>
- .row {
+    .row {
         margin-bottom: 30px;
         font-weight: 500;
     }
@@ -70,6 +70,7 @@
     .col-2{
         font-weight: 500;
     }
+    
 
     .col-10 {
         line-height: 28px;
@@ -77,8 +78,20 @@
         text-align: justify;
     }
 
+    .energy-image{
+        height: 500px; 
+        width: 830px;
+    }
     .blank{
         height: 300px;
     }
+
+    @media (max-width: 812px) {
+        .energy-image{
+            height: 280px; 
+            width: 100%;
+        }
+    }
+
 
 </style>

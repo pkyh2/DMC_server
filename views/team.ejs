@@ -35,11 +35,11 @@
 
         <div id="professor-content">
             <div class="row">
-                <div class="col-3">
+                <div class="col-lg-3 col-sm-4" style="text-align: center;">
                     <img src="./images/jai.png" height="230" width="190" alt="">
                 </div>
 
-                <div class="col-9">
+                <div class="col-lg-9 col-sm-8">
                     <div class="profile-name">
                         Dr. Kim, Jai-Hoon <br>
                     </div>
@@ -74,11 +74,11 @@
 
         <div id="doctor-content">
             <div class="row">
-                <div class="col-3">
+                <div class="col-lg-3 col-sm-4" style="text-align: center;">
                     <img src="./images/hoon.jpeg" height="230" width="190" alt="">
                 </div>
 
-                <div class="col-9">
+                <div class="col-lg-9 col-sm-8">
                     <div class="profile-name">
                         Dr. Choi, Kwanghoon <br>
                     </div>
@@ -102,11 +102,11 @@
             </div>
 
             <div class="row" style="margin-top: 50px;">
-                <div class="col-3">
+                <div class="col-lg-3 col-sm-4" style="text-align: center;">
                     <img src="./images/min.jpeg" height="230" width="190" alt="">
                 </div>
 
-                <div class="col-9">
+                <div class="col-lg-9 col-sm-8">
                     <div class="profile-name">
                         Dr. Kim, Min-Kyung <br>
                     </div>
@@ -138,30 +138,29 @@
         </div>
         <div id="master-content">
             <div class="row">
-                <div class="col-2" >
+                <div class="col-lg-2 col-sm-4" style="text-align: center;">
                     <img src="./images/yong.jpeg" height="200" width="150" alt="">
-                    <!-- <div class="profile-image"></div> -->
                 </div>
 
-                <div class="col-4">
+                <div class="col-lg-4 col-sm-8">
                     <div class="profile-name">Kim Yong Hyun</div>
-                    <div class="profile-career">  Department of Knowledge Information Engineering</div>
+                    <div class="profile-career"> Department of Knowledge Information Engineering</div>
                     <div class="profile-info">
                         <i class="fas fa-envelope profile-icon"></i>
                         twilight8@ajou.ac.kr
                     </div>
                 </div>
 
-                <div class="col-2">
+                <div class="col-lg-2 col-sm-4" style="text-align: center;">
                     <img src="./images/im.png" height="200" width="150" alt="">
                 </div>
 
-                <div class="col-4">
+                <div class="col-lg-4 col-sm-8">
                     <div class="profile-name"> Im Hyo Won</div>
-                    <div class="profile-career">  Department of Knowledge Information Engineering</div>
+                    <div class="profile-career"> Department of Knowledge Information Engineering</div>
                     <div class="profile-info">
                         <i class="fas fa-envelope profile-icon"></i>
-                        souvak@ajou.ac.kr 
+                        souvak@ajou.ac.kr
                     </div>
                 </div>
             </div>
@@ -185,11 +184,11 @@
 
 
 <style>
-    .col-2{
+    .col-2 {
         text-align: center;
     }
 
-    .col-3{
+    .col-3 {
         text-align: center;
     }
 
@@ -283,6 +282,75 @@
     .href:hover {
         color: #d5ac9d;
         text-decoration-line: none;
+    }
+
+    @media (max-width: 812px) {
+        .test {
+            background-image: url('../images/team.jpg');
+            background-size: cover;
+            width: 100%;
+            height: 250px;
+            top: 0px;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 140px;
+            background-position-y: 45%;
+        }
+
+        .test:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            height: 250px;
+            background: rgba(0, 0, 0, .5);
+        }
+
+        .nav-test {
+            position: absolute;
+            top: 0px;
+            width: 100%;
+            left: 0px;
+            padding: 20px;
+            transition: opacity .2s ease-in-out;
+        }
+
+        .logo {
+            font-size: 20px;
+            font-weight: 500;
+            margin-left: 0px !important;
+            color: white;
+            top: 0px;
+        }
+
+    .profile-name {
+        font-size: 18px;
+        font-weight: 500;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .profile-career {
+        margin-top: 30px;
+        font-size: 14px;
+        text-align: center;
+        font-weight: 300;
+        line-height: 28px;
+    }
+
+
+    .profile-info {
+        color: gray;
+        font-size: 14px;
+        text-align: center;
+        font-weight: 300;
+        margin-top: 20px;
+        line-height: 30px;
+        margin-bottom: 100px;
+    }
+
     }
 </style>
 

@@ -54,7 +54,7 @@
         </div>
 
         <div style="text-align: center;">
-            <img src="./images/etherapp.png" height="400" width="700" alt="">
+            <img src="./images/etherapp.png" class="etherapp-image" alt="">
         </div>
     </div>
 
@@ -70,9 +70,21 @@
         font-weight: 500;
     }
 
+    .etherapp-image{
+        height: 400px;
+        width: 700px;
+    }
+
     .col-10 {
         line-height: 28px;
         font-weight: 300;
         text-align: justify;
+    }
+
+    @media (max-width: 812px) {
+        .etherapp-image{
+            height: 250px;
+            width: 100%;
+        }
     }
 </style>

@@ -2,7 +2,6 @@
 <html>
 
 <head>
-
   <%- include('partials/head') %>
   <title><%= title %></title>
 </head>
@@ -16,7 +15,7 @@
       Papers
     </div>
 
-    <div style="text-align: left; margin-top: 60px; margin-bottom: 50px;">
+    <div class="btn-group" >
       <button type="button" id="all" class="filter-btn active" name="button">전체</button>
       <button type="button" id="sci" class="filter-btn" name="button">SCI</button>
       <button type="button" id="non-sci" class="filter-btn" name="button">NON-SCI</button>
@@ -24,10 +23,10 @@
 
     <% for(var i=0; i<obj_length; i++) { %>
     <div class="row list" style="padding: 20px 25px;">
-      <div class="col-sm-1" style="text-align: center;" >
+      <div class="col-lg-1 col-sm-1" style="text-align: center;" >
         <%= i+1 %>
       </div>
-      <div class="col-sm-11">
+      <div class="col-lg-11 col-sm-11">
         <div class="paper-title">
           <%= papers.papers[i].title %>
         </div>
