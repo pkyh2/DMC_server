@@ -15,11 +15,44 @@
         </div>
 
 
-        <h1>
-            준비중입니다!
-        </h1>
+        <div class="row">
+                <div class="col-2">
+                    개요
+                </div>
+    
+                <div class="col-10">
+                        최근 들어 개인과 개인 간(peer to peer) 전력을 공유하는 시스템인 P2P전력거래가 많아지고 있다.에너지 블록체인은 전력공급자와 소비자들 간에 자동적으로 전력거래를 할 수 있게 함으로써 거래비용을 줄이고, 에너지 거래 정보를 분산원장에 공유함으로써 투명한 전력거래를 할 수 있게 한다. P2P네트워크는 제한적인 확장성, 높은 가치변동성 등 한계점을 가지고 있는 퍼블릭 블록체인보다 안정적인 전력공급이 중요한에너지 분야에서는 신뢰 할 수 있는 사용자들만 네트워크에 참여 할 수 있는 프라이빗 블록체인 그 중에서도 Hyperledger Fabric기반으로 구현하였다.
+                </div>
+            </div>
+    
+    
+            <div class="row">
+                <div class="col-2">
+                    진행기간
+                </div>
+    
+                <div class="col-10">
+                    2019. 10. 15 ~ 2019. 11. 29
+                </div>
+            </div>
+    
+    
+    
+            <div class="row">
+                <div class="col-2">
+                    내용
+                </div>
+    
+                <div class="col-10">
+                    Energy blockchain은 현재 전력망에서 이슈 되고 있는 스마트 그리드의 구성을 바탕으로 구현하였다. 하이퍼레저 패브릭으로 구현한 Energy blockchain의 구성은 Org1에서 Org8까지 있고 각각의 채널은 3개로 구성되어 있다. 채널1에서는 전력 거래에서 에너지 손실에 대한 데이터를 분산원장에 공유한다. 채널2에서는 전력 거래에서 에너지 사용량에 대한 데이터를 분산원장에 공유한다. 채널3에서는 예비전력에 대한 잔량과 용량에 대한 데이터를 분산원장에 공유한다. 이와 같이 energy blockchain을 구성하여 전력거래에 효율성과 보안성을 증가시킨다.
+                </div>
+            </div>
+    
+            <div style="text-align: center;">
+                <img src="./images/energy.png" height="500" width="830" alt="">
+            </div>
 
-        <div class="blank"></div>
+
     </div>
 
     <%- include('partials/footer') %>
@@ -29,14 +62,19 @@
 </html>
 
 <style>
-    .text-bold {
+ .row {
+        margin-bottom: 30px;
         font-weight: 500;
     }
 
-    .detailed-text {
+    .col-2{
+        font-weight: 500;
+    }
+
+    .col-10 {
+        line-height: 28px;
         font-weight: 300;
         text-align: justify;
-        line-height: 28px;
     }
 
     .blank{
