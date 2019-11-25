@@ -25,7 +25,6 @@ router.get('/', function (req, res, next) {
         console.log(rows[i].title);
         console.log(rows[i].author);
         console.log(rows[i].info);
-        console.log("--------------");
       }
     }
     res.render('papers', { title: 'Distributed Mobile Computing', rows: rows});
