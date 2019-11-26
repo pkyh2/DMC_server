@@ -154,6 +154,7 @@ ul{
 }
 
 .container{
+  width: 100%;
   border: 1px solid lightgray;
   /* height: 240px; */
   margin-top: 30px;
@@ -272,14 +273,13 @@ ul{
   .section{
     padding-left: 20px;
     padding-right: 20px;
-    padding-top: 30px;
+    padding-top: 0px;
     padding-bottom: 30px;
   }
 
-
   .page-title {
     font-size: 27px;
-    margin-bottom: 0px;
+    margin-bottom: 0px; 
   }
 
   .btn-group{
@@ -320,4 +320,30 @@ ul{
     color: gray;
     text-align: justify;
   }
+
+  .container{
+    border: 1px solid lightgray;
+    margin-top: 30px;
+    padding: 30px 30px;
+  }
+  .container-title{
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    line-height: 28px;
+  }
+  
+  .container-content{
+    font-size: 14px;
+    margin-top: 15px;
+    line-height: 28px;
+    color: gray;
+    font-weight: 300;
+    text-align: justify;
+  }
+  .row{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+  }
+  
 }

@@ -9,17 +9,18 @@
 
 <body>
     <%- include('partials/navbar') %>
+
     <div class="section">
         <div class="page-title">
             Ether App
         </div>
 
         <div class="row">
-            <div class="col-2">
+            <div class="col-lg-2 col-sm-2">
                 개요
             </div>
 
-            <div class="col-10">
+            <div class="col-lg-10 col-sm-10">
                 EtherApp은 사용자들의 감성데이터를 블록체인에 저장해 감성데이터를 기록함으로써 사용자들의 참여에 대한 인센티브를 제공하고, 감성인식의 정확성을 향상하며, 이러한 모든 과정과 데이터는
                 안전하게 기록, 공유, 이용, 판매 할 수 있는 플랫폼이다.
             </div>
@@ -27,22 +28,22 @@
 
 
         <div class="row">
-            <div class="col-2">
+            <div class="col-lg-2 col-sm-2">
                 진행기간
             </div>
 
-            <div class="col-10">
+            <div class="col-lg-10 col-sm-10">
                 2018. 07. 27 ~ 2019. 01. 29 </div>
         </div>
 
 
 
         <div class="row">
-            <div class="col-2">
+            <div class="col-lg-2 col-sm-2">
                 내용
             </div>
 
-            <div class="col-10">
+            <div class="col-lg-10 col-sm-10">
                 Crypto EtherApp는 기존 EtherApp를 최대한 활용하되 블록체인의 장점인 믿음, 거래, 인센티브를 추가한다. Crypto EtherApp는 다양한 사용자가 참여하고 정확성과
                 신뢰성을 높일 수 있도록 인센티브 개념을 도입하기 때문에, EtherApp가 더욱 진화되고 발전하는 생태계를 구축하는데 기여할 것이다. 기존 EtherApp의 유용한 기능(감성인식 및
                 감성향상)은 물론이고 사용자들의 다양한 참여에 대한 인센티브를 제공하고, 감성인식의 정확성을 향상하며, 이러한 모든 과정과 데이터는 안전하게 기록, 공유, 이용, 판매될것이다.
@@ -70,21 +71,36 @@
         font-weight: 500;
     }
 
-    .etherapp-image{
+    .etherapp-image {
         height: 400px;
         width: 700px;
     }
 
-    .col-10 {
-        line-height: 28px;
+    .col-lg-2{
+        font-size: 18px;
+    }
+    
+    .col-lg-10 {
+        font-size: 18px;
+        line-height: 34px;
         font-weight: 300;
         text-align: justify;
     }
 
     @media (max-width: 812px) {
-        .etherapp-image{
+        .etherapp-image {
             height: 250px;
             width: 100%;
+        }
+
+        .col-sm-2{
+            font-size: 14px;
+        }
+
+        .col-sm-10 {
+            font-size: 14px;
+            font-weight: 300;
+            text-align: justify;
         }
     }
 </style>

@@ -8,10 +8,13 @@
 </head>
 
 <body>
-    <%# include('partials/navbar') %>
+
+    <div class='nav-position'>
+        <%- include('partials/navbar') %>
+    </div>
 
     <div class="test">
-        <div class="nav-test">
+        <!-- <div class="nav-test">
             <div class="logo">
                 <a href="/" class="href" style="font-weight: 500; margin-left: 0 !important;">DMC</a>
                 <a href="/team" class="href">team</a>
@@ -19,15 +22,15 @@
                 <a href="/papers" class="href">papers</a>
                 <a href="/project" class="href">projects</a>
                 <a href="/blockchain" class="href">blockchain</a>
-            </div>
-        </div>
+            </div> -->
 
         <div class="page-title" style="color: white;">
             Our Team
         </div>
+    </div>
 
     </div>
-    <div class="section">
+    <div class="section" style="margin-top: 30px;">
         <div class="degree">
             Professor
             <i class="fas fa-angle-down" id="professor-btn" style="float:right; font-size: 30px;"></i>
@@ -184,6 +187,11 @@
 
 
 <style>
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        display: inline-block !important;
+    }
+
     .col-2 {
         text-align: center;
     }
@@ -242,6 +250,10 @@
         background-position-y: 45%;
     }
 
+    a {
+        color: white !important;
+    }
+
     .test:before {
         content: "";
         position: absolute;
@@ -284,12 +296,34 @@
         text-decoration-line: none;
     }
 
+    .nav-position {
+        position: absolute;
+        z-index: 2;
+    }
+
     @media (max-width: 812px) {
+        .page-title{
+            z-index: 1;
+        }
+
+        .nav-position {
+            position: absolute;
+            z-index: 2;
+            width: 100%;
+        }
+
+        .navbar-default .navbar-collapse,
+        .navbar-default .navbar-form {
+            width: 100%;
+            background-color: rgba(0,0,0,0.5);
+            z-index: 3;
+        }
+
         .test {
             background-image: url('../images/team.jpg');
             background-size: cover;
             width: 100%;
-            height: 250px;
+            height: 300px;
             top: 0px;
             padding-left: 30px;
             padding-right: 30px;
@@ -304,7 +338,7 @@
             right: 0;
             top: 0;
             bottom: 0;
-            height: 250px;
+            height: 300px;
             background: rgba(0, 0, 0, .5);
         }
 
@@ -325,31 +359,36 @@
             top: 0px;
         }
 
-    .profile-name {
-        font-size: 18px;
-        font-weight: 500;
-        margin-top: 20px;
-        text-align: center;
-    }
+        .degree{
+            font-size: 17px;
+        }
 
-    .profile-career {
-        margin-top: 30px;
-        font-size: 14px;
-        text-align: center;
-        font-weight: 300;
-        line-height: 28px;
-    }
+        .profile-name {
+            font-size: 16px;
+            font-weight: 500;
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .profile-career {
+            margin-top: 30px;
+            font-size: 14px;
+            text-align: center;
+            font-weight: 300;
+            line-height: 28px;
+        }
 
 
-    .profile-info {
-        color: gray;
-        font-size: 14px;
-        text-align: center;
-        font-weight: 300;
-        margin-top: 20px;
-        line-height: 30px;
-        margin-bottom: 100px;
-    }
+        .profile-info {
+            color: gray;
+            font-size: 14px;
+            text-align: center;
+            font-weight: 300;
+            margin-top: 20px;
+            text-decoration: none;
+            line-height: 30px;
+            margin-bottom: 100px;
+        }
 
     }
 </style>

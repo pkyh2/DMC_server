@@ -8,8 +8,15 @@
 </head>
 
 <body>
+
+  <!-- <div style="position: absolute; color: white !important; width: 100%;"> -->
+    <div style="background-color: black;">
+      <%- include('partials/navbar') %>
+  </div>
+      
   <div class="test">
-    <div class="nav-test">
+
+    <!-- <div class="nav-test">
       <div class="logo">
         DMC
         <a href="/team" class="href">team</a>
@@ -17,8 +24,8 @@
         <a href="/papers" class="href">papers</a>
         <a href="/project" class="href">projects</a>
         <a href="/blockchain" class="href">blockchain</a>
-      </div>
-    </div>
+      </div> 
+    </div> -->
 
     <div class="test2">
       Distributed & Mobile <br>
@@ -149,6 +156,9 @@
     font-weight: 900;
   }
 
+  a{
+    color:white !important; 
+  }
   .about {
     color: white;
     margin-top: 20px;
@@ -157,6 +167,8 @@
     font-weight: 100;
   }
 
+
+  
   @media ( max-width: 812px ) {
     .section{
       padding-left: 20px;
@@ -174,7 +186,7 @@
       top: 0px;
       padding-left: 30px;
       padding-right: 30px;
-      padding-top: 200px;
+      padding-top: 80px;
     }
 
     .test2{
@@ -212,6 +224,10 @@
       font-weight: 200;
   }
     
+
+  .navbar-collapse.collapse {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
   }
 
 </style>
