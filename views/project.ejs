@@ -19,47 +19,29 @@
         <button type="button" id="sci" class="filter-btn" name="button">2019</button>
         <button type="button" id="non-sci" class="filter-btn" name="button">2018</button>
       </div>
-  
 
-    <div class="row list" style="padding: 20px 25px;">
-      <div class="col-lg-1">1</div>
-      <div class="col-lg-2" class="mobile-center">
-        S-2019-G0001-00012
-      </div>
-      <div class="col-lg-8">
-        <div class="paper-title">
-          사물인터넷 기반 정보 시스템의 장애 발생 시 자동으로 대응하기 위한 장애 복구 블록체인 시스템
+
+    <% for(var i=0; i<obj_length; i++) { %>
+      <div class="row list" style="padding: 20px 25px;">
+        <div class="col-lg-1 col-sm-1" style="text-align: center;" >
+          <%= i+1 %>
         </div>
-
-        <div class="paper-writer">
-          김강석
-        </div>
-
-        <div class="paper-info">
-          아주대학교
-        </div>
-      </div>
-    </div>
-    <div class="row list" style="padding: 20px 25px;">
-      <div class="col-lg-1">2</div>
-
-      <div class="col-lg-2">
-        S-2019-A0526-00001
-      </div>
-      <div class="col-lg-8">
-        <div class="paper-title">
-          4차 산업혁명 기반 산업기술보호 R&D 전문인력 양성
-        </div>
-
-        <div class="paper-writer">
-          김기형
-        </div>
-
-        <div class="paper-info">
-          한국산업기술보호협회
+        <div class="col-lg-11 col-sm-11">
+          <div class="paper-title">
+            <%= projects.projects[i].title %>
+          </div>
+          <div class="paper-writer">
+            <%= projects.projects[i].author %>
+          </div>
+          
+          <div class="paper-info">
+            <%= projects.projects[i].info %>
+          </div>
         </div>
       </div>
-    </div>
+      <% } %>
+
+      
   </div>
 
   <%- include('partials/footer') %>

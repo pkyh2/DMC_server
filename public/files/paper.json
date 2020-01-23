@@ -1,0 +1,1481 @@
+{   
+    "papers":[
+        "SCI",
+        {
+            "title": "Enhanced Power Saving Scheme for IEEE 802. 11 DCF based Wireless Networks",
+            "author": "김재훈, 최종무, 고영배",
+            "info": "Lecture Notes in Computer Science, Vol.2775, No.1, pp.835-840 2003. 09. Springer-Verlag"
+        },
+        {
+            "title": "Disconnceted Operation Service in Mobile Grid Computing",
+            "author": "김재훈, 박상민, 고영배",
+            "info": "Lecture Notes in Computer Science(Springer), Vol.2910, pp.499-513 2003. 12. Int'I Conference on Service Oriented Computing(ICSOC'03)"
+        },
+        {
+            "title": "A New Directional Flooding Protocol for Wireless Sensor Networks",
+            "author": "김재훈, 최종무, 고영배",
+            "info": "Lecture Notes in Computer Science, Vol.3090, No.1, pp.93-102 2004. 09. Springer-Verlag"
+        },
+        {
+            "title": "Enhanced Power Saving for IEEE 802.11 WLAN with Dynamic Slot Allocation",
+            "author": "김재훈, 서창수, 고영배",
+            "info": "Springer, Vol.3794, No.1, pp.498-507 2005. 12. Lecture Notes in Computer Science"
+        },
+        {
+            "title": "Effective One-to-One Correspondence Method of 0(N2Log(N)) Complexity between Distributed Uints",
+            "author": "한창희, 김강석, 김재훈, 박상혁",
+            "info": "INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS, Vol.9, pp.1-7 2012. 04. INTECH-OPEN ACCESS PUBLISHER"
+        },
+        {
+            "title": "Two-Factor Authentication System Based on Extended OTP Mechanism",
+            "author": "최옥경, 김강석, 손태식, 홍만표, 예홍진, 김재훈, 구윤림",
+            "info": "INTERNATIONAL JOURNAL OF COMPUTER MATHMATICS, I/F.0.499, 2013. 02. TAYLOR & FRANCISLTD"
+        },
+        {
+            "title": "An interactive pervasive shiteboard based on MVC architecure for ubiquitous collaboration",
+            "author": "하정원, 최옥경, 예홍진, 김재훈, 홍만표, 손태식, 김강석",
+            "info": "MULTIMEDIA TOOLS AND APPLICATIONS, I/F.0.885, pp.1-20 2013. 04. SPRINGER US"
+        },
+        {
+            "title": "Hierarchical structured data logging systems for effective lifelog management in ubiquitous environment",
+            "author": "김강석, 김민경, 이동욱, 김재훈",
+            "info": "MULTIMEDIA TOOLS AND APPLICATIONS, I/F.1.014, pp.1-17 2013. 08. SPRINGER" 
+        },
+        {
+            "title": "Cost-effective and accurate method of measuring fetal fraction using SNP imputation",
+            "author": "김선신, 김민정, 김재훈, 김강석",
+            "info": "BIOINFORMATICS, I/F.7.307, pp.1-6 2017. 11. OXFORD UNIV PRESS"
+        },
+        {
+            "title": "A Fault-Tolerant Continuous Media Disk Array Under Arbitrary-Rate Search",
+            "author": "오유영, 김재훈, 김성수",
+            "info": "IEEE Transactions on Consumer Electronics, Vol.46, No.2, pp.334-342 2000. 05. IEEE"
+        },
+        {
+            "title": "Research on adaptive and recoverable distributed shared memory",
+            "author": "N. Vaidya, 김재훈",
+            "info": "IEEE Computer Society Technical Committee on Computer Architecture (TCCA) Newsletter, pp.49-52 1997. 03. IEEE"
+        },
+        {
+            "title": "Single fault-tolerant distributed shared memory using competitive update",
+            "author": "N. Vaidya, 김재훈",
+            "info": "Microprocessors and Microsystems, Vol.21, No.3, pp.183-196 1997. 12. Elsevier"
+        },
+        {
+            "title": "Fault-Tolerant Rank Order Filtering for Image Enhancement",
+            "author": "F. Lombardi, 김재훈",
+            "info": "IEEE Transactions on Consumer Electronics, Vol.45, No.2, pp.436-442 1999. 05. IEEE"
+        },
+        {
+            "title": "Analysis of failure recovery schemes for distributed shared-memory systems",
+            "author": "N. Vaidya, 김재훈",
+            "info": "IEE Proceedings - Computers and Digital Techniques, Vol.146, No.3, pp.125-130 1999. 05, IEEE"
+        },
+        {
+            "title": "Efficient Data Broadcast Scheme on Wireless Link Errors",
+            "author": "신동규, 신동일, 김성수, 정의종, 김재훈",
+            "info": "IEEE Transactions on Consumer Electronics, Vol.46, No.4, pp.1143-1147 2000. 11. IEEE"
+        },
+        {
+            "title": "Data sharing model for sequence alignment to reduce database retieve",
+            "author": "이원태, 정진원, 김민준, 김재훈",
+            "info": "Lecture Notes in Computer Science, Vol.2659, No.3, pp.652-661 2003. 06. Springer"
+        },
+        {
+            "title": "Two-Tier Checkpointing Algorithm Using MSS in Wireless Network",
+            "author": "변계섭, 임성화, 김재훈",
+            "info": "IEICE Transactions on Communications, Vol.E86-B, No.7, pp.2136-2142 2003. 07. IEICE"
+        },
+        {
+            "title": "Energy Efficient Algorithm for Disconnected Write Operation in Mobile Web Environmets",
+            "author": "고영배, 최종무, 최진석, 김재훈",
+            "info": "Lecture Notes in Computer Science, Vol.2790, No.1, pp.661-668 2003. 08. Springer-Verlag"
+        },
+        {
+            "title": "Efficient Data Consistency Scheme in 2-tier Cellular Networks",
+            "author": "임승범, 고영배, 김재훈",
+            "info": "Lecture Notes in Computer Science, Vol.2834, No.1, pp.478-482 2003. 09. Springer-Verlag"
+        },
+        {
+            "title": "Dynamic Data Grid Replication Strategy based on Internet Hierarchy",
+            "author": "고영배, 윤원식, 박상민, 김재훈",
+            "info": "Lecture Notes in Computer Science, Vol.1111, No.2, pp.1324-1331 2003. 12. Springer-Verlag"
+        },
+        {
+            "title": "Performance Improvement of Information Service Using Priority Driven Method",
+            "author": "김재훈, 이민지, 김원일",
+            "info": "Leture Notes in Computer Science, Vol.1111, No.2, pp.1112-1119 2003. 12. Springer-Verlag"
+        },
+        {
+            "title": "Real-Time Broadcast Algorithm for Mobile Computingpp. 173-181, Jan. 2004",
+            "author": "임성화, 김재훈",
+            "info": "Journal of Systems and Software, Vol.69, No.1-2, pp.173-181 2004. 01. Elsevier"
+        },
+        {
+            "title": "An Energy Efficient Broadcasting for Mobile Devices Using a Cache Scheme",
+            "author": "고영배, 윤원식, 한국희, 김재훈",
+            "info": "Lecture Notes in Computer Science, Vol.3036, No.1, pp.598-601 2004. 06. Springer-Verlag"
+        },
+        {
+            "title": "Exploring Protein Fold Space by Secondary Structure Prediction using Data Distribution Method on Grid Platform",
+            "author": "이원태, 정진원, 조민규, 이수진, 김재훈",
+            "info": "Bioinformatics, Vol.20, No.18, pp.3500-3507 2004. 12. Oxford University Press"
+        },
+        {
+            "title": "Cost model and adaptive scheme for publish/subscribe systems on mobile grid environments",
+            "author": "Geoffrey Fox, Sangmi Lee Pallickar, sunghoon Ko, Sangyoon Oh, 김재훈",
+            "info": "Lecture Notes in Computer Science (Springer-Verlag), Vol.3516, No.3, pp.275-278 2005. 05. Springer-Verlag"
+        },
+        {
+            "title": "Publish/Subscribe systems on node and link error prone mobile environments",
+            "author": "Geoffrey Fox, Sangmi Lee Pallickar, sunghoon Ko, Sangyoon Oh, 김재훈",
+            "info": "Lecture Notes in Computer Science (Springer-Verlag), Vol.3515, No.2, pp.576-584 2005. 05. Springer-Verlag"
+        },
+        {
+            "title": "Process Scheduling Policy Based on Rechargeable Power Resource in Wireless Sensor Networks",
+            "author": "고경철, 승영미, 이병훈, 김재훈",
+            "info": "Lecture Notes in Computer Science, Vol.3842, No.1, pp.405-409 2006. 01. Springer-Verlag"
+        },
+        {
+            "title": "Dependency-Based Dynamic Component Reconfiguration for Wireless Computing Systems",
+            "author": "조위덕, 권정호, 이병훈, 김재훈",
+            "info": "Lecture Notes in Computer Science, Vol.4138, No.1, pp.382-393 2006. 08. Springer-Verlag"
+        },
+        {
+            "title": "Optimal Server Replication Schemes to Reduce Location management Cost in Cellular network",
+            "author": "임성화, 김재훈",
+            "info": "IEICE Transactions on Communications, Vol.E89-B, No.10, pp.2841-2849 2006. 10. IEICE"
+        },
+        {
+            "title": "Diversity and Fault Avoidance for Dependable Replication Systems",
+            "author": "이병훈, 임성화, 김재훈",
+            "info": "Information Processing Letters, Vol.108, No.1, pp.33-37 2008. 09. ELSEVIER"
+        },
+        {
+            "title": "Efficient and Fair Scheduling for Two-Level Information Broadcasting Systems",
+            "author": "조위덕, 이병훈, 임성화, 김재훈",
+            "info": "CONCURRENCY AND COMPUTATION: PRACTICE AND EXPERIENCE, Vol.20, No.18, pp.2179-2200 2008. 12. JOHN WILEY & SONS, LTD."
+        },
+        {
+            "title": "Lease-Based Consistency Schemes in the Web Environments",
+            "author": "Geoffrey C. Fox, 이병훈, 임성화, 김재훈",
+            "info": "FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING-THEORY METHODS AND APPLICATIONS, Vol.25, No.1, pp.8-19 2009. 01. ELSEVIER SCIENCE BV"
+        },
+        {
+            "title": "Analysis of Optimized Aggregation Timing in Wireless Sensor Networks",
+            "author": "이동욱, 김재훈",
+            "info": "KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS, Vol.3. No.2, pp.209-218 2009. 04. KSII-KOR SOC INTERNET INFORMATION"          
+        },
+        {
+            "title": "UMONS: Ubiquitous Monitoring System in Smart Space",
+            "author": "이효남, 임성화, 김재훈",
+            "info": "IEEE TRANSACTIONS ON CONSUMER ELECTRONICS, Vol.55, No.3, pp.1056-1064 2009. 08. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC"
+        },
+        {
+            "title": "Scalable real-time monitoring system for ubiquitous smart space",
+            "author": "이병훈, 임성화, 김재훈",
+            "info": "INFORMATION PROCESSING LETTERS, Vol.110, pp.294-299 2010. 04. ELSEVIER SCIENCE BV"
+        },
+        {
+            "title": "High reliable in-network data verification in wireless sensor networks",
+            "author": "김재훈, 이동욱",
+            "info": "WIRELESS PERSONAL COMMUNICATIONS, Vol.54, pp.501-519 2010. 08. SPRINGER"            
+        },
+        {
+            "title": "Voluntary Disconnected Operations for Energy Efficient Mobile Devices in Pervasive Computing Environments",
+            "author": "임성화, 이병훈, 김재훈",
+            "info": "INTELLIGENT AUTOMATION AND SOFT COMPUTING, Vol.19, No.1, pp.39-49 2013. 03. AUTOSOFT PRESS"
+        },
+        {
+            "title": "On the effect of image filtering in the process of MPEG-7 visual descripter",
+            "author": "이주환, 장봉식, 김재훈, 김원일",
+            "info": "INFORMATION-AN INTERNATIONAL INTERDISCIPLINARY JOURNAL, Vol.16, No.4, pp.2505-2513 2013. 04. INT INFORMATION INST"
+        },
+        {
+            "title": "Effective real-time scheduling algorithm for cyber physical systems society",
+            "author": "Geoffrey Fox, 박상혁, 김재훈",
+            "info": "FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING-THEORY METHODS AND APPLICATIONS, Vol.32, pp.253-259 2014. 03. ELSEVIER SCIENCE BV"
+        },
+        {
+            "title": "Analytic Model for Optimal Checkpoints in Mobile Real-time Systems",
+            "author": "임성화, 이병훈, 김재훈",
+            "info": "KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS, Vol.10, No.8, pp.3689-3700 2016. 08. KSII-KOR SOC INTERNET INFORMATION"
+        },
+        {
+            "title": "Efficient Nearest Neighbor Heuristic TSP Algorithms for Reducing Data Acquisition Latency of UAV Relay WSN",
+            "author": "TEMESGEN SEYOUM ALEMAYEHU, 김재훈",
+            "info": "WIRELESS PERSONAL COMMUNICATIONS, Vol.95, No.3, pp.3271-3285 2017. 08. SPRINGER"
+        },
+        {
+            "title": "Dependability analysis of cyber physical systems",
+            "author": "TEMESGEN SEYOUM ALEMAYEHU, 김재훈",
+            "info": "IET COMPUTERS AND DIGITAL TECHNIQUES, Vol.11, No.6, pp.231-236 2017. 10. INST ENGINEERING TECHNOLOGY-IET"
+        },
+        {
+            "title": "Cost-effective monitoring algorithm for cyber-physical system platform using combined spatio-temporal model",
+            "author": "임성화, 최광훈, 김재훈",
+            "info": "JOURNAL OF SUPERCOMPUTING, Vol.74, No.8, pp.3537-3548 2018. 08. SPRINGER"
+        },
+        {
+            "title": "Real-time performance analysis for publish/subscribe systems",
+            "author": "Geoffrey C. Fox, Jai-Hoon Kim, and Sangyoon Oh",
+            "info": "FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF GRID COMPUTING-THEORY METHODS AND APPLICATIONS, Vol.26 No.3 pp.318-323 2010. 03. ELSEVIER SCIENCE BV"
+        },
+        {
+            "title": "Full-duplex Distributed Massive MIMO System with Optimal Beamforming and Resource Allocation for WPCN",
+            "author": "Jai-Hoon Kim, TEMESGEN SEYOUM ALEMAYEHU, and Won-Sik Yoon",
+            "info": "JOURNAL OF COMMUNICATIONS TECHNOLOGY AND ELECTRONICS, Vol.62 No.12 pp.1383-1387 2017. 12. MAIK NAUKA/INTERPERIODICA/SPRINGER"
+        },
+        "Non-SCI",
+        {
+            "title": "A Hybrid Service Discovery for Improving Robustness in Mobile AdHoc Networks",
+            "author": "김재훈, 오창석, 고영배",
+            "info": "International Conference on Dependable Systems and Networks, Vol.1, No.1, pp. 122-123 2004. 06. IEEE"
+        },
+        {
+            "title": "Reliable Schemes in JINI Middleware for Mobile Ad Hoc Networks",
+            "author": "김재훈, 이성준, 고영배",
+            "info": "International Conference on Dependable Systems and Networks, Vol.1, No.1, pp. 100-101 2004. 06. IEEE"
+        },
+        {
+            "title": "A Novel Gradient Approach for Efficient Data Dissemination in Wireless Sensor Networks",
+            "author": "김재훈, 한국희, 고영배",
+            "info": "International Conference on Dependable Systems and Networks, Vol.1, No.1, pp. 1-5 2004. 09. IEEE"
+        },
+        {
+            "title": "IEEE 802.11 기반 무선망에서의 저전력 브로드캐스트 기법",
+            "author": "김재훈, 최종무, 고영배",
+            "info": "2003 봄 학술발표회, Vol.30, No.1, pp.463-465 2003. 04. 한국정보과학회"
+        },
+        {
+            "title": "무선센서네트워크에서의 에너지 효율적 MAC 프로토콜",
+            "author": "김재훈, 서창수, 고영배",
+            "info": "2004 춘계 학술대회, Vol. 31, No.1, pp.559-561 2004. 04. 한국정보과학회"
+        },
+        {
+            "title": "Ad hoc 환경에서 네트워크 토폴로지에 기반한 Jini Service Locator 선출 알고리즘",
+            "author": "김재훈, 안성우, 고영배",
+            "info": "2004 춘계 학술대회, Vol.31, No.1, pp.793-795 2004. 04. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 컴퓨팅 환경에서 추상적 Context 지원을 위한 연구방안",
+            "author": "김재훈, 차창호, 고영배",
+            "info": "2004 추계 학술대회, Vol.31, No.2, pp.613-615 2004. 10. 한국정보과학회"
+        },
+        {
+            "title": "데이터 전송 지연 최소화 기법",
+            "author": "김재훈, 서창수, 고영배",
+            "info": "2004 추계 학술대회, Vol.31, No.2, pp.715-717 2004. 10. 한국정보과학회" 
+        },
+        {
+            "title": "이동컴퓨팅 환경에서의 에너지 효율성 증대를 위한 CORBA 컴포넌트 모델 확장",
+            "author": "김재훈, 이병훈, 차창호, 고영배",
+            "info": "한국정보과학회, Vol.32, No.1(A), pp.889-891 2005. 07. 2005 한국컴퓨터종합학술대회"
+        },
+        {
+            "title": "Directional Flooding Method in Wireless Sensor Network",
+            "author": "최종무, 김재훈, 고영배",
+            "info": "미국등록특허, 2007. 11. 아주대학교 산학협력단"
+        },
+        {
+            "title": "사용자의 인터렉션 향상을 위한 EPUB eBook 변환 기법",
+            "author": "김재훈, 이남희, 김강석",
+            "info": "정보처리학회논문지. 소프트웨어 및 데이터 공학, Vol.6, No.3, pp.117-124 2017.03. 한국정보처리학회"
+        },
+        {
+            "title": "Comparative Analysis of Cost Modeling on Lightweight Messaging Protocols for IoT Integrated Ubiquitous Collaboration System",
+            "author": "김재훈, 김민경, 김강석",
+            "info": "INTERNATIONAL JOURNAL OF APPLIED ENGINEERING RESEARCH, Vol.12, No.23, pp.13314-13320 2017. 12. RESEARCH INDIA PUBLICATIONS"
+        },
+        {
+            "title": "iLifrlog: Modeling and Practice of Activity Recognition with Smartphone for the Effective Lifrlog Storage System",
+            "author": "김강석, 김재훈, 이동욱, 조위덕, 김민경",
+            "info": "Proceedings of International Conference on Computer and Applications, 2012. 03."
+        },
+        {
+            "title": "Stock Forecasting using Stock Index Relation and Genetic Algorithm",
+            "author": "한창희, 홍철의, 김영준, 김강석, 김재훈, 김원일",
+            "info": "Proceedings of International Conference on Computer and Applications, 2012. 03."
+        },
+        {
+            "title": "Analyzing behavior Patterns with Lifrlog Data in Ubiquitous Computing Environments",
+            "author": "김강석, 이동욱, 김재훈, 김민경",
+            "info": "The 2013 FTRA International Conference on Advanced IT, Engineering and Management, 2013. 02. FTRA"
+        },
+        {
+            "title": "Analysis for Optimal Degree of Replication",
+            "author": "Geoffrey Fox, 김강석, 김재훈",
+            "info": "The 2012 International Conference on Information Science and Technology, 2012. 04."
+        },
+        {
+            "title": "Performance for Animated GIF Image Codec through Multithreaded Partial-Updates on Multicore Moblie Devices",
+            "author": "김강석, 김재훈, 홍만표, 우호성",
+            "info": "The 10th International Conference and Expo on Emerging Technologies for a Smarter World(CEWIT2013), 2013. 10. IEEE"
+        },
+        {
+            "title": "NFC 기반의 출입통제 시스템을 위한 게이트웨이 설계",
+            "author": "김강석, 김재훈, 김희정",
+            "info": "2012년도 한국정보보호학회 하계학술대회, 2012. 06."
+        },
+        {
+            "title": "모바일 예약 시스템에서 데이터 일관성을 위한 동기화 메커니즘",
+            "author": "김강석, 정영섭, 홍만표, 김재훈",
+            "info": "제38회 한국정보처리학회 추계학술발표대회, 2012. 11."
+        },
+        {
+            "title": "JPEG을 Animated GIF로 변환하는 과정에서 스레딩에 따른 멀티코어 모바일 디바이스의 성능평가",
+            "author": "김강석, 김재훈, 우호성",
+            "info": "2013년도 제39회 한국정보처리학회 춘계학술발표대회, Vol.20, No.1, pp.328-331 2013. 05. 한국정보처리학회"
+        },
+        {
+            "title": "스마트폰 디바이스에서 영상 로딩 속도 개선 기법",
+            "author": "김강석, 김재훈, 김용찬",
+            "info": "2013 한국컴퓨터 종합학술대회, pp.1149-1151 2013. 06. 한국정보과학회"
+        },
+        {
+            "title": "안드로이드 기반 모바일 디바이스에서 최적화된 해상도를 위한 자동화 도구 개발",
+            "author": "김강석, 김재훈, 김보람",
+            "info": "2013 한국컴퓨터 종합학술대회, pp.448-450 2013. 06. 한국정보과학회"
+        },
+        {
+            "title": "안드로이드 기반 스마트폰 환경에서 응용프로그램의 안정적인 구동을 위한 동적 메모리 관리 기법",
+            "author": "김강석, 김재훈, 박성준",
+            "info": "제40회 한국정보처리학회 추계학술발표대회, Vol.20, No.2, pp.505-508 2013. 11. 한국정보처리학회"
+        },
+        {
+            "title": "H.264/AVC에서 비트율 제어와 시각 인지도를 고려한 영상화질 개선 기법",
+            "author": "김강석, 김재훈, 안수민",
+            "info": "2014년 한국정보처리학회 추계학술발표대회, Vol.21, No.2, pp.971-974 2014. 11. 한국정보처리학회"
+        },
+        {
+            "title": "PDF문서를 EPUB3.0 포맷으로 변환을 위한 효과적 색 추출 및 상호작용 효과삽입기법",
+            "author": "변계섭, 김강석, 김재훈, 이남희",
+            "info": "2015년 한국정보처리학회 춘계학술발표대회, Vol.22, No.1, pp.968-970 2015. 04. 한국정보처리학회"
+        },
+        {
+            "title": "소프트웨어 기반 네트워크 환경에서 라운드 로빈과 부하기반 방식을 결합한 하이브리드 부하분산 방법",
+            "author": "김강석, 홍만표, 김재훈, 이승혁",
+            "info": "한국통신학회 하계종합학술발표회, 2015. 06. 한국통신학회"
+        },
+        {
+            "title": "Open API를 활용한 영화정보 매쉬업 서비스의 설계 및 구현",
+            "author": "김강석, 김재훈, 홍만표, 김호웅",
+            "info": "2015년 한국인터넷정보학회 추계학술발표대회, 2015. 10. 한국인터넷정보학회"
+        },
+        {
+            "title": "소셜 네트워크 서비스와 사물인터넷의 통합 매쉬업 아키텍쳐",
+            "author": "황준상, 김재훈, 김기형, 김강석",
+            "info": "2016년 한국통신학회 하계 종합학술발표회, 2016. 06. 한국통신학회"
+        },
+        {
+            "title": "클라우드 기반 센서 네트워크에서 MQTT와 CoAP 메세지 마감시간 준수를 위한 시스템 설계",
+            "author": "김강석, 홍만표, 김재훈, 진석희",
+            "info": "2016년 한국통신학회 하계 종합학술발표회, 2016. 06. 한국통신학회"
+        },
+        {
+            "title": "Block chain based data security enhanced IoT server platform",
+            "author": "전진형, 김재훈, 김기형",
+            "info": "ICOIN2018, 2018. 01."
+        },
+        {
+            "title": "함대함 비행 시험용 실시간 전시 소프트웨어 개발",
+            "author": "김성수, 김재훈, 박승규, 최경희, 최덕규, 권원석, 박기진, 박우진, 백상현, 신동원, 유태화, 전상준, 김동윤",
+            "info": "2001. 10. 국방과학연구소"
+        },
+        {
+            "title": "커뮤니티 컴퓨팅 모델 및 응용 개발도구 구현",
+            "author": "김현경, 양정진, 조세형, 차성덕, 김병완, 민철홍, 은광희, 이동건, 이준섭, 이형규, 임초람, 정주영, 지은경, 황우연, 김봉규, 남호영, 양경모, 엄예지, 이기원, 정유나, 최치환, 김성수, 김재훈, 이정태, 신은혜, 이순화, Khan.Muhammad Umer, 곽상민, 권성현, 김민수, 김성택, 김한욱, 김희수, 노승민, 마종수, 박상준, 박태영, 백호현, 송세헌, 심윤주, 안광호, 오준석, 이건수, 이경희, 이대환, 이동욱, 이병훈, 이효남, 임성화, 장봉원, 전형백, 최익규, 홍인표",
+            "info": "2008. 02. 유비쿼터스컴퓨팅사업단"
+        },
+        {
+            "title": "시뮬레이션 기법을 이용한 완전 비동기 디스크 어레이 성능 평가",
+            "author": "김재훈, 오유영, 김성수",
+            "info": "한국시뮬레이션학회 논문지, Vol.8, No.2, pp.29-43 1999. 06. 한국시뮬레이션학회"
+        },
+        {
+            "title": "결함허용과 임의속도 탐색을 고려한 연속매체 디스크 배치 기법",
+            "author": "김재훈, 오유영, 김성수",
+            "info": "정보과학회 논문지(A), Vol.26, No.9, pp.1166-1176 1999. 09. 한국정보과학회"
+        },
+        {
+            "title": "소프트웨어 재활 기법을 적용한 다중계 시스템의 가용도 분석",
+            "author": "김재훈, 박기진, 김성수",
+            "info": "정보과학회논문지(시스템 및 이론), Vol.27, No.8, pp.730-740 2000. 08. 한국정보과학회"
+        },
+        {
+            "title": "이동 호스트의 효율적 결함복구를 위한 Lazy 기법의 성능 개선",
+            "author": "김재훈, 권원석, 김성수",
+            "info": "한국정보처리학회 논문지, Vol.7, No.9, pp.2969-2979 2000. 09. 한국정보처리학회"
+        },
+        {
+            "title": "소프트 실시간 시스템을 위한 두 단계 스케쥴링 알고리즘",
+            "author": "김재훈",
+            "info": "정보처리논문집, Vol.6, No.2, pp.467-475 1999. 02. 한국정보처리학회"
+        },
+        {
+            "title": "객체지향 종속 추척 및 체크포인팅을 이용한 복구 가능한 분산공유메모리 시스템",
+            "author": "김재훈",
+            "info": "정보처리학회논문지, Vol.6, No.2, pp.476-484 1999. 02. 한국정보처리학회"
+        },
+        {
+            "title": "DSM시스템에서 통신 부하의 가중치를 고려한 경쟁적인 갱신 프로토콜",
+            "author": "김성수, 백상현, 임성화, 김재훈",
+            "info": "한국정보처리학회 논문지, Vol.6, No.8, pp.2245-2252 1999. 08. 한국정보처리학회"
+        },
+        {
+            "title": "결함허용 실시간 시스템을 위한 이중화 기법과 체크포인팅 기법의 성능 비교",
+            "author": "김성수, 임성화, 김재훈",
+            "info": "한국정보처리학회 논문지, Vol.6, No.9, pp.2533-2539 1999. 09. 한국정보처리학회"
+        },
+        {
+            "title": "모빌 컴퓨팅 환경에서 중복 디폴트 서버를 이용한 쿼리 프로세싱 기법의 성능 분석",
+            "author": "김성수, 임성화, 김재훈",
+            "info": "한국통신학회논문지, Vol.25, No.8A, pp.1096-1103 2000. 08. 한국통신학회"
+        },
+        {
+            "title": "분산 공유메모리 시스템을 위한 실시간 제한 프로토콜",
+            "author": "전상준, 김성수, 김재훈",
+            "info": "정보과학회논문지: 시스템 및 이론, Vol.27, No.9, pp.793-802 2000. 09. 한국정보과학회"
+        },
+        {
+            "title": "무선통신망의 에러가 데이터 방송의 인덱스 기법에 미치는 영향 분석",
+            "author": "정의종, 김재훈",
+            "info": "한국통신학회논문지, Vol.26, No.1A, pp.1-8 2001. 01. 한국통신학회"
+        },
+        {
+            "title": "실시간 시스템에서의 효과적인 체크 포인트 간격에 대한 연구",
+            "author": "변계섭, 김재훈",
+            "info": "한국통신학회논문지, Vol.26, No.7A, pp.1220-1226 2001. 07. 한국통신학회"
+        },
+        {
+            "title": "셀룰라 네트워크를 위한 조정된 2계층 체크포인팅 알고리즘",
+            "author": "변계섭, 김재훈",
+            "info": "한국통신학회논문지, Vol.26, No.10A, pp.1615-1624 2001. 10. 한국통신학회"
+        },
+        {
+            "title": "셀룰라 네트워크 환경에서의 이중화 체크포인팅을 이용한 이동 호스트 및 기지국 결함 복구 기법",
+            "author": "변계섭, 김재훈",
+            "info": "한국통신학회논문지, Vol.27, No.1, pp.1-10 2002. 01. 한국통신학회"
+        },
+        {
+            "title": "비연결 수행 이동컴퓨팅 태스크의 성능 분석",
+            "author": "정승식, 김재훈",
+            "info": "한국통신학회논문지, Vol.27, No.3B, pp.202-211 2002. 03. 한국통신학회"
+        },
+        {
+            "title": "셀룰라 네트워크에서 위치정보 관리 비용을 최소화하는 서버의 중복도",
+            "author": "임성화, 김재훈",
+            "info": "정보과학회눈문지: 정보통신, Vol.29, No.3, pp.265-276 2002. 06. 한국정보과학회"
+        },
+        {
+            "title": "무선망에서 소비 전력을 절약하는 라우팅 기법",
+            "author": "고영배, 최종무, 김재훈",
+            "info": "정보과학회논문지: 정보통신, Vol.30, No.2, pp.179-188 2003. 04. 한국정보과학회"
+        },
+        {
+            "title": "효율적인 유전자 서열 비교를 위한 데이터베이스 검색 모델",
+            "author": "이원태, 정진원, 김민준, 임성화, 김재훈",
+            "info": "정보과학회논문지: 데이터베이터, Vol.31, No.3, pp.243-251 2004. 06. 한국정보과학회"
+        },
+        {
+            "title": "자율적 커뮤니티 컴퓨팅 기반 유비쿼터스 시스템 플랫폼을 위한 효과적인 모니터링 방법",
+            "author": "조위덕, 권성현, 이동욱, 김재훈",
+            "info": "정보과학회논문지: 컴퓨팅의 실제 및 레터, Vol.14, No.1 pp.88-90 2008. 02. 한국정보과학회"
+        },
+        {
+            "title": "센서 네트워크를 위한 그리드 기반의 에너지 효율적인 라우팅 프로토콜",
+            "author": "이동욱, 정성영, 김재훈",
+            "info": "정보과학회논문지: 컴퓨팅의 실제 및 레터, Vol.14, No.2, pp.216-220 2008. 04. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 시스템을 위한 실시간 모니터링 에이전트",
+            "author": "조위덕, 권성현, 이병훈, 김재훈",
+            "info": "정보과학회논문지: 컴퓨팅의 실제 및 레터, Vol.14, No.8, pp.1-7 2008. 11. 한국정보과힉회"
+        },
+        {
+            "title": "유비쿼터스 시스템을 위한 실시간 모니터링 에이전트",
+            "author": "김재훈",
+            "info": "정보과학회논문지: 컴퓨팅의 실제 및 레터, Vol.14, No.8, pp.803-807 2008. 11. 한국정보과학회"
+        },
+        {
+            "title": "실시간 유비쿼터스 지능공간 모니터링 시스템을 위한 에이전트와 스마트 객체간의 부하분산 기법",
+            "author": "정홍규, 이동욱, 김재훈",
+            "info": "정보과학회논문지, Vol.16, No.4, pp.447-451 2010. 04. 한국정보과학회"
+        },
+        {
+            "title": "고수준 유비쿼터스 지능공간 모니터링 시스템 환경에서의 모니터링 엔진간의 상황 인지적 부하 분산 기법",
+            "author": "정홍규, 이동욱, 김재훈",
+            "info": "한국엔터테인먼트산업학회논문지, Vol.4, No.2, pp.52-57 2010. 06. 한국엔터테인먼트산업학회"
+        },
+        {
+            "title": "실시간 스케쥴링을 적용한 Extended-Military Multimedia Systems",
+            "author": "한창희, 박상혁, 김재훈",
+            "info": "전자공학회논문지, Vol.48, No.1, pp.26-32 2011. 01. 대한전자공학회"
+        },
+        {
+            "title": "실시간성을 고려한 가상군 최소비용 길 찾기 알고리즘",
+            "info": "한창희, 민영혜, 박상혁, 김재훈",
+            "author": "전자공학회논문지, Vol.48, No.1, pp.17-25 2011. 01. 대한전자공학회"
+        },
+        {
+            "title": "효율적인 데이터 저장과 전송을 위한 최적 데이터 압축기법 선택",
+            "author": "민영혜, 김재훈",
+            "info": "정보과학회논문지: 시스템 및 이론, Vol.38, No.2, pp.107-115 2011. 04. 한국정보과학회"
+        },
+        {
+            "title": "Design and Cost Analysis for a Fault-Tolerant Distributed Shared Memory System",
+            "author": "ALHARBI FAHAD JAZIA, 김강석, 김재훈",
+            "info": "인터넷정보학회논문지, Vol.17, No.4, pp.1-9 2016. 08. 한국인터넷정보학회"
+        },
+        {
+            "title": "다중 드론 시뮬레이터와 LoRa 센서 네트워크를 활용한 실종자 탐색 시뮬레이션 및 테스트베드 구축",
+            "author": "현만석, 최광훈, 김재훈",
+            "info": "한국통신학회논문지, Vol.43, No.11, pp.1941-1951 2018. 11. 한국통신학회"
+        },
+        {
+            "title": "Embedded system management",
+            "author": "정대인, 가진호, 윤원식, 김재훈",
+            "info": "Journal of Contents, Vol.1, No.1, pp.16-20 2005. 04. The Korean Contents Association"
+        },
+        {
+            "title": "Performance Analysis under Multiple Antennas in Wireless Sensor Networks Based on the Generalized Approach to Signal Processing",
+            "author": "김용득, 김재훈, 윤원식",
+            "info": "WSEAS Transactions on Communications, Vol.4, No.7, pp.391-395 2005. 07. WSEAS"
+        },
+        {
+            "title": "Macrodiversity in Wireless Sensor Networks Based on the Generalized Approach to Signal Processing",
+            "author": "김용득, 김재훈, 윤원식",
+            "info": "WSEAS Transactions on Communications, Vol.4, No.8, pp.648-653 2005. 08. WSEAS"
+        },
+        {
+            "title": "Generalized Detector under Nonorthogonal Multipulse Modulation in Remote Sensing Systems",
+            "author": "김용득, 김재훈, 윤원식",
+            "info": "WSEAS Transactions on Signal Processing, Vol.1, No.2, pp.203-208 2005. 11. WSEAS"
+        },
+        {
+            "title": "Implementation of Context-Aware Middleware for Sensor Network",
+            "author": "김보성, 이병훈, 김재훈",
+            "info": "International Journal of Contents, Vol.2, No.1, pp.9-16 2006. 03. Korea Contents Association"
+        },
+        {
+            "title": "Consistent Distributed Lookup Service Architecture for Mobile Ad-hoc Networks",
+            "author": "말리, 김재훈",
+            "info": "International Journal of Contents, Vol.2, No.2, pp.29-31 2006. 06. Korea Contents Association"
+        },
+        {
+            "title": "Adaptive Sensing Schedule Mechanism Condiering Neighbor Node In Wireless Sensor Network",
+            "author": "Jan Pajak, 조위덕, 이동욱, 이정아, 김재훈",
+            "info": "International Journal of Information Acquisition(World Scientific Publishing Company), Vol.4, No.3, pp.261-272 2007. 09. World Scientific"
+        },
+        {
+            "title": "Inconsistency problems and its solutions for distributed shared memory systems",
+            "author": "Nitin H Vaidya, 김재훈",
+            "info": "The 13th International Conference on Information Networking, Vol.13, No.2, pp.10B-4 1999. 01. IEEE, KISS"
+        },
+        {
+            "title": "Performance Analysis of Mobile Computing on Error Prone Wireless Links",
+            "author": "정승식, 김재훈",
+            "info": "Proc. of The Tenth FIT-NUST-AJOU University Joint Seminar, pp.114-121 2000. 11. FIT-NUST-AJOU University Joint Seminar"
+        },
+        {
+            "title": "A New Directional Flooding Protocol for Wireless Sensor Networks",
+            "author": "김재훈, 최종무, 고영배",
+            "info": "ICOIN 2004, Vol.1, pp.207-216 2004. 02. KISS, IPSJ"
+        },
+        {
+            "title": "SSR (Smart Sleep Recognizer) : Making Decision Based on Probability of User's Intension",
+            "author": "조위덕, 유성훈, 이동욱, 김재훈",
+            "info": "The First Korea/Japan Joint Workshop on Ubiquitous Computing and Networking Systems, Vol.1, No.1, 2005. 06. Ubicns"
+        },
+        {
+            "title": "Autonomic Distributed Adaptive Middleware",
+            "author": "윤희용, 고영배, 조위덕, 최광훈, 김재훈",
+            "info": "The First Korea/Japan Joint Workshop on Ubiquitous Computing and Networking Systems, Vol.1, No.1, 2005. 06. Ubicns"
+        },
+        {
+            "title": "Group Reconfiguration for Community Computing",
+            "author": "윤재희, 김재훈",
+            "info": "The First Korea/Japan Joint Workshop on Ubiquitous Computing and Networking Systems, Vol.1, No.1, 2005. 06. Ubicns"
+        },
+        {
+            "title": "Scheduled Power Saving MAC Protocol for Wireless Networks",
+            "author": "김재훈, 말리, 고영배",
+            "info": "2006 International Symposium on Ubiquitous Computing Systems, Vol.1, No.1, pp.271-280 2006. 10. u-Korea Forum"
+        },
+        {
+            "title": "Real-Time Scheduling in Cyber-Physical Systems",
+            "author": "Geoffrey Fox, 박상혁, 김재훈",
+            "info": "International Conference on Computer and Applications, 2012. 03. "
+        },
+        {
+            "title": "Efficient scheduling algorithm for drone power charging",
+            "author": "TAJRIAN MEHEDI, 김재훈",
+            "info": "정보처리학회 춘계학술발표대회, Vol.26, No.1, pp.60-61 2019. 05. 한국정보처리학회"
+        },
+        {
+            "title": "Real-Time Protocol for Distributed Shared Memory",
+            "author": "김성수, 전상준, 김재훈",
+            "info": "IASTED International Conference Software Engineering and Applications, pp.329-333 1999. 10. IASTED (The International Association of Science and Technology for Development)"
+        },
+        {
+            "title": "Determining Checkpointing Intervals for Fault Tolerant Real-Time Systems",
+            "author": "변계섭, 김재훈",
+            "info": "The 2000 International Conference on Parallel and Distributed Processing Techniques and Applications, Vol.V, pp.2795-2801 2000. 06. CSREA"
+        },
+        {
+            "title": "Performance Improvement of Location-Aided Routing Using Fixed Post in Mobile Ad Hoc Networks",
+            "author": "정종광, 김재훈",
+            "info": "International Conference on Parallel and Distributed Processing Techniques and Applications, Vol.VI, No.1, pp.2095-2100 2000. 06. CSREA"
+        },
+        {
+            "title": "Analysis and Measurement of Data  Broadcast Schemes on Unreliable Wireless Link for Resilient Mobile Computing",
+            "author": "임성화, 정의종, 김재훈",
+            "info": "International Conference on Communications in Computing, pp.135-140 2000. 06. CSREA"
+        },
+        {
+            "title": "Modeling and Performance Analysis of Disconnected Operations for Mobile Computing",
+            "author": "정승식, 김재훈",
+            "info": "International Conference on Computer and Information Science, Vol.1, No.1, pp.26-33 2001. 10. ACIS"
+        },
+        {
+            "title": "Two-Tier Coordinated Checkpointing Algorithm for Cellular Networks",
+            "author": "변계섭, 김재훈",
+            "info": "International Conference on Computer and Information Science, Vol.1, No.1, pp.46-52 2001. 10. ACIS"
+        },
+        {
+            "title": "Real-Time Broadcast Algorithm for Mobile Computing",
+            "author": "임성화, 김재훈",
+            "info": "International Conference on Computer and Information Science, Vol.1, No.1, pp.34-39 2001. 10. ACIS"
+        },
+        {
+            "title": "A Frame Work for Embedded System Management",
+            "author": "가진호, 김재훈",
+            "info": "International Conference on Parallel and Distributed Processing Techniques and Applications, Vol.1, No.1, pp.510-516 2002. 06. CSREA"
+        },
+        {
+            "title": "Implementation of bluetooth gateway",
+            "author": "김찬우, 김재훈",
+            "info": "International Conference on Parallel and Distributed Processing Techniqueues and Applications, Vol.IV, No.1, pp.1780-1785 CSREA"
+        },
+        {
+            "title": "A Study on the Optimal Heartbeat Interval for High Available Systems",
+            "author": "박주용, 김재훈",
+            "info": "International Conference on Parallel and Distributed Processing Techniqueues and Applications, Vol.III, No.1, pp.1075-1081 2002. 06. CSREA"
+        },
+        {
+            "title": "Chameleon: A Resource Scheduler in a Data Grid Environment",
+            "author": "박상민, 김재훈",
+            "info": "The Third IEEE/ACM International Symposium on Cluster Computing and the Grid, pp.258-265 2003. 05. IEEE"
+        },
+        {
+            "title": "Utilizing Directionality information for Power-Efficient Routing in Ad Hoc Networks",
+            "author": "김재훈, 최종무, 고영배",
+            "info": "The 3rd IEEE International Conference on Networking, pp.588-594 2004. 02. IEEE"
+        },
+        {
+            "title": "Low Power Memory Model for Real-Time Mobile Services",
+            "author": "고영배, 윤원식, 이성준, 김재훈",
+            "info": "ACIS second international conference on software engineering research, management, and applications, Vol.2, No.1, pp.237-241 2004. 05. ACIS"
+        },
+        {
+            "title": "Periodic Task Allocation Method Adapting to Unstable Resource Status on the MPI Enabled Distributed System",
+            "author": "이민지, 김재훈",
+            "info": "2004 International Conference on Parallel and Distributed Processing Techniques and Application, Vol.1, No.1, pp.224-227 2004. 06. CSREA"
+        },
+        {
+            "title": "Agent-Based Embedded Monitoring System for Ubiquitous Networks Environments",
+            "author": "고영배, 강효성, 최종무, 김재훈",
+            "info": "2004 International Conference on Parallel and Distributed Processing Techniques and, Vol.1, No.1, pp.1173-1178 2004. 06. CSREA"
+        },
+        {
+            "title": "Categorized Data Search Method for Intelligent Query Processing",
+            "author": "이민지, 윤원식, 안성우, 김재훈",
+            "info": "Wirelesscom 2005, Vol.1, No.1, 2005. 06. IEEE"
+        },
+        {
+            "title": "An Energy Balanced Data Dissemination Scheme for Lifetime Extension in Wireless Sensor Networks",
+            "author": "고영배, 이동욱, 김재훈",
+            "info": "Wireless Networks And Emerging Technologies, Vol.1, No.1, pp.126-131 2005. 07. IASTED"
+        },
+        {
+            "title": "Distributed and Real-Time Lookup Service in Ad-Hoc Network",
+            "author": "최광훈, 김재훈",
+            "info": "Wireless Networks And Emerging Technologies, Vol.1, No.1, pp.132-136 2005. 07. IASTED"
+        },
+        {
+            "title": "Two-Level Data Broadcast Scheme for Remote Advertisement Broadcast System",
+            "author": "이병훈, 김재훈",
+            "info": "Communication Systems and Applications, Vol.1, No.1, pp.75-79 2005. 07. IASTED"
+        },
+        {
+            "title": "Smart Media Player: The Intelligent Media Player Based on Context-Aware Middleware and Ubi-Sensor",
+            "author": "고영배, 차창호, 김재훈",
+            "info": "Internet & Multimedia Systems & Applications, Vol.9, No.1, pp.383-388 2005. 08. IASTED"
+        },
+        {
+            "title": "Minimum Energy and Latency MAC protocol for Wireless Sensor Networks",
+            "author": "Ail Malik, 고영배, 이병훈, 김재훈",
+            "info": "International Conference on Ubiquitous Intelligence and Computing, Vol.4611, No.1, pp.444-453 2007. 07. Springer-Verlag"
+        },
+        {
+            "title": "A Dynamic Sensing Cycle Decision Scheme for Energy Efficiency and Data Reliability in Wireless Sensor Networks",
+            "author": "이동욱, 이정아, 김재훈",
+            "info": "International Conference on Intelligent Computing, Vol.4681, No.1, pp.218-229 2007. 08. Springer-Verlag"
+        },
+        {
+            "title": "Traffic Speed Prediction Under Weekday, Time, and Neighboring Links' Speed: Back Propagation Neural Network Approach",
+            "author": "윤원식, 이은미, 김재훈",
+            "info": "International Conference on Intelligent Computing, Vol.4681, No.1, pp.628-635 2007. 08. Springer-Verlag"
+        },
+        {
+            "title": "Monitoring System in Ubiquitous Smart Space",
+            "author": "조위덕, 이동욱, 이병훈, 이효남, 임성화, 김재훈",
+            "info": "2008 International Workshop on Context-Aware Pervasive Communities, Vol.1, No.1, pp.261-264 2008. 05. AUSTRIAN COMPUTER SOCIETY"
+        },
+        {
+            "title": "Real-Time Scalable Monitoring System for Adaptive Ubiquitous Smart Space",
+            "author": "조위덕, 이동욱, 이병훈, 장봉원, 김재훈",
+            "info": "2008 International Conference on Cutting Edge Wireless and Information Technology, Vol.1, No.1, pp.13 2008. 10. CEWIT"
+        },
+        {
+            "title": "Evaluation of User’s Satisfaction for Context-Aware Services in Ubiquitous Computing",
+            "author": "김재훈",
+            "info": "CEWIT Conference '09, pp.34 2009. 10. CEWIT"
+        },
+        {
+            "title": "Dynamic Security Level Changing Strategy using Attack Predictions",
+            "author": "임성화, 김재훈",
+            "info": "International Conference on IT Convergence and Security 2014, pp.235-238 2014. 10. IEEE Computer Society"
+        },
+        {
+            "title": "A hybrid service discovery approach to mitigate overhead concentration on resource directory",
+            "author": "김재훈, 김유나, 손태식, 김기형",
+            "info": "International conference on information networking, pp.407-409 2015. 01. "
+        },
+        {
+            "title": "Practical Software Defect Analysis based Reliability Growth Models",
+            "author": "임성화, 김용찬, 김강석, 김재훈",
+            "info": "The 1st International Conference on Electronics, Electrical Engineering, Computer Science : Innovation and Convergence, 2016. 01. "
+        },
+        {
+            "title": "Cost Model for the Checkpoint and Rollback Scheme in Mobile Real-time Systems",
+            "author": "임성화, 이병훈, 김재훈",
+            "info": "The 1st International Conference on Electronics, Electrical Engineering, Computer Science : Innovation and Convergence, 2016. 01. "
+        },
+        {
+            "title": "성능이 다른 워크스테이션을 위한 동적 Load Balancing",
+            "author": "최경희, 심재홍, 전상준, 김재훈",
+            "info": "제25회 추계학술발표회, Vol.25, No.2, pp.169-171 1998. 10. 한국정보과학회"
+        },
+        {
+            "title": "분산 공유메모리 시스템을 위한 실시간 제한 포로토콜",
+            "author": "최경희, 심재홍, 전상준, 김재훈",
+            "info": "춘계학술발표회, Vol.26, No.1, pp.169-171 1999. 04. 한국정보과학회"
+        },
+        {
+            "title": "DMS 시스템에서의 통신부하의 가중치를 고려한 경쟁적인 갱신 프로토콜",
+            "author": "백상현 김재훈",
+            "info": "한국정보과학회 봄 학술발표대회, Vol.26, No.1, pp.163-165 1999. 04. 한국정보과학회"
+        },
+        {
+            "title": "이동컴퓨팅을 위한 실시간 브로드캐스트 알고리즘",
+            "author": "임성화, 김재훈",
+            "info": "한국정보과학회 봄 학술발표대회, Vol.26, No.1, pp.364-366 1999. 04. 한국정보과힉회"
+        },
+        {
+            "title": "결함허용 실시간 시스템의 성능평가",
+            "author": "임성화, 김재훈",
+            "info": "한국정보과학회 봄 학술발표대회, Vol.26, No.1, pp.113-115 1999. 04. 한국정보과학회"
+        },
+        {
+            "title": "이동컴퓨팅 환경에서의 효과적인 데이터 할당 기법",
+            "author": "백상현, 김재훈",
+            "info": "한국정보과학회 봄 학술발표대회, Vol.26, No.1, pp.155-157 1999. 04. 한국정보과학회"
+        },
+        {
+            "title": "Sanders 알고리즘을 이용한 실시간 상호베제의 성능 향상",
+            "author": "전상준, 김재훈",
+            "info": "한국정보과힉회 '99가을학술발표대회, Vol. 26, No.2, pp.146-148 1999. 10. 한국정보과힉회"
+        },
+        {
+            "title": "모빌컴퓨팅환경에서의 중복디폴트서버를 이용한 쿼리프로세싱 기법의 성능분석",
+            "author": "임성화, 김재훈",
+            "info": "한국정보과학회 가을학술발표대회, Vol.26, No.2, pp.250-252 1999. 10. 한국정보과학회 가을학술발표대회"
+        },
+        {
+            "title": "병렬확장 VoD 서버에 대한 성능 분석",
+            "author": "김재훈, 심재홍, 홍석래, 최경희",
+            "info": "한국정보과학회 가을학술발표대회, Vol.26, No.2, pp.105-107 1999. 10. 한국정보과학회"
+        },
+        {
+            "title": "확장성 있는 병렬 I/O VoD 서버의 설계 및 구현",
+            "author": "김재훈, 김주훈, 최경희",
+            "info": "한국정보과학회 가을학술발표대회, Vol.26, No.2, pp.108-110 1999. 10. 한국정보과학회"
+        },
+        {
+            "title": "멀티미디어 데이터 전송을 위한 EPVM의 기능 개선",
+            "author": "김재훈, 심재홍, 윤종원, 최경희",
+            "info": "한국정보과학회 가을학술발표대회, Vol.26, No.2, pp.111-113 1999. 10. 한국정보과학회"
+        },
+        {
+            "title": "분산공유메모리를 위한 성능비교 모델",
+            "author": "임승범, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.27, No.1, pp.116-118 2000. 04. 한국정보과학회"
+        },
+        {
+            "title": "무선통신 장애를 고려한 indexing broadcast 기법의 성능분석",
+            "author": "정의종, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.27, No.1, pp.262-264 2000. 04. 한국정보과학회"
+        },
+        {
+            "title": "무선통신망의 에러를 고려한 이동컴퓨팅의 성능 분석",
+            "author": "정승식, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.27, No.1, pp.268-270 2000. 04. 한국정보과학회"
+        },
+        {
+            "title": "모빌 컴퓨팅 환경에서 실시간 스케쥴링을 고려하며 평균 대기시간을 최소화시키는 브로드캐스트 스케쥴링 기법",
+            "author": "임성화, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.27, No.1, pp.229-231 2000. 04. 한국정보과학회"
+        },
+        {
+            "title": "Mobile Ad Hoc 망에서의 고정 호스트를 이용한 Location-Aided Routing(LAR)의 성능 향상",
+            "author": "정종광, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.27, No.1, pp.223-225 2000. 04. 한국정보과학회"
+        },
+        {
+            "title": "실시간 시스템에서의 효과적인 Checkpointing Interval에 관한 연구",
+            "author": "변계섭, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.27, No.1, pp.15-17 2000. 04. 한국정보과학회"
+        },
+        {
+            "title": "이동 컴퓨팅을 위한 K-Level Indexing Boradcast 기법의 성능분석",
+            "author": "정의종, 김재훈",
+            "info": "한국정보과학회 추계학술발표논문집, Vol.27, No.2, pp.505-507 2000. 10. 한국정보과학회"
+        },
+        {
+            "title": "통신망 단절을 고려한 이동컴퓨팅 태스크의 성능 분석",
+            "author": "정승식, 김재훈",
+            "info": "한국정보과학회 추계학술발표논문집, Vol.27, No.2, pp.108-110 2000. 10. 한국정보과학회"
+        },
+        {
+            "title": "이동컴퓨팅을 환경에서의 데이터 일치성을 위한 비용 분석 모델",
+            "author": "임승범, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.28, No.1, pp.322-324 2001. 04. 한국정보과학회"
+        },
+        {
+            "title": "모바일 컴퓨팅을 위한 조정된 체크포인팅 알고리즘",
+            "author": "변계섭, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.28, No.1, pp.511-513 2001. 04. 한국정보과학회"
+        },
+        {
+            "title": "고가용성 시스템을 위한 최적의 Heartbeat 간격에 대한 연구",
+            "author": "박주용, 김재훈",
+            "info": "한국정보과학회 춘계학술발표논문집, Vol.28, No.1, pp.4-6 2001. 04, 한국정보과학회"
+        },
+        {
+            "title": "이동 컴퓨팅 환경에서 통신 비용을 최소화하는 중복 서버 위치 할당 기법의 성능 분석",
+            "author": "임성화, 김재훈",
+            "info": "한국정보과학회 추계학술발표논문집, Vol.28, No.2, pp.607-609 2001. 10. 한국정보과학회"
+        },
+        {
+            "title": "셀룰라 네트워크 환경에서의 효율적인 기지국 결함 복구 기법",
+            "author": "변계섭, 김재훈",
+            "info": "한국정보과학회 추계학술발표논문집, Vol.28, No.2, pp.127-129 2001. 10. 한국정보과학회"
+        },
+        {
+            "title": "실시간 시스템을 위한 실시간 메모리 교체 기법",
+            "author": "가진호, 김재훈",
+            "info": "한국정보과학회 추계학술발표논문집, Vol.28, No.2, pp.76-78 2001. 10. 한국정보과학회"
+        },
+        {
+            "title": "이동 단말기의 메모리 제약을 해결하기 위한 자료 구조",
+            "author": "김찬우, 김재훈",
+            "info": "한국정보과학회 추계학술발표논문집, Vol.28, No.2, pp.139-141 2001. 10. 한국정보과학회"
+        },
+        {
+            "title": "이동환경에서 인증된 사용자에게 선별적으로 데이터를 전송하는 브로드캐스팅 기법의 성능분석",
+            "author": "정승식, 임성화, 김재훈",
+            "info": "추계학술발표논문집, Vol.9, No.1, pp. 1575-1578 2002. 04. 한국정보처리학회"
+        },
+        {
+            "title": "생물정보학에서 사용자 그룹핑 기법을 이용한 서열 정렬 방법",
+            "author": "김민준, 김재훈",
+            "info": "정보과학회 춘계학술발표대회, Vol.29, No.1 pp.13-15 2002. 04. 한국정보과학회"
+        },
+        {
+            "title": "Mobile Ad hoc Networks(MANET)에서의 고정셀을 이용한 Cluster based Routing Protocol",
+            "author": "정종광, 김재훈",
+            "info": "봄학술발표논문집, Vol.29 No.1 pp.583-585 2002. 04. 한국정보과학회"
+        },
+        {
+            "title": "임베디드 시스템 관리 프레임워크의 구현",
+            "author": "가진호, 김재훈",
+            "info": "봄학술발표논문집, Vol.29 No.1 pp.424-426 2002. 04. 한국정보과학회"
+        },
+        {
+            "title": "블루투스 게이트웨이의 구현",
+            "author": "김찬우, 김재훈",
+            "info": "봄학술발표논문집, Vol.29 No.1 pp.418-420 2002. 04. 한국정보과학회"
+        },
+        {
+            "title": "무선망에서 소비 전력을 고려한 실시간 라우팅 기법",
+            "author": "최종무, 김재훈",
+            "info": "봄학술발표논문집, Vol.29 No.1 pp.133-135 2002. 04. 한국정보과학회"
+        },
+        {
+            "title": "그리드 환경에서 복제 데이터 처리 전략의 동적 선택을 위한 비용 모델",
+            "author": "박상민, 김재훈",
+            "info": "하계학술발표논문집, Vol.25 No.2 pp.1-4 2002. 07. 한국통신학회"
+        },
+        {
+            "title": "그룹핑과 카플 방식을 이용한 효율적인 생물정보 DB접근",
+            "author": "김민준, 김재훈",
+            "info": "가을학술발표논문집, Vol.29 No.2 pp.295-297 2002. 10. 한국정보과학회"
+        },
+        {
+            "title": "차량 항법 시스템 환경에서 Ad Hoc Relaying System을 이용한 효과적인 실시간 정보 제어 기법",
+            "author": "변계섭, 임성화, 김재훈",
+            "info": "추계학술발표논문집, Vol.29 No.2 pp.346-348 2002. 10. 한국정보과학회"
+        },
+        {
+            "title": "Performance Improvement of Protein Secondary Structure Prediction System Using a Grid",
+            "author": "Weontae Lee, Jin-Won Jung, Soojin Lee, and Jai-Hoon Kim",
+            "info": "Korean Society for Bioinformatics Annual Meeting, Vol.1 No.1 pp.39-47 2002. 11. Korean Society for Bioinformatics"
+        },
+        {
+            "title": "카풀 및 그룹핑 기법을 이용한 유전자 서열 정렬 프로그램(FastA) 설계",
+            "author": "이원태, 정진원, 이성준, 김재훈",
+            "info": "춘계학술발표논문집, Vol.30 No.1 pp.124-126 2003. 04. 한국정보과학회"
+        },
+        {
+            "title": "블루투스를 이용한 데이터 일치성 모델의 성능 분석",
+            "author": "김찬우, 고영배, 한국희, 김재훈",
+            "info": "춘계학술발표논문집, Vol.30 No.1 pp.292-294 2003. 04. 한국정보과학회"
+        },
+        {
+            "title": "클러스터링 단백질 데이터베이스와 데이터 분산 기법을 적용한 단백질 이차구조예측 시스템 설계",
+            "author": "이원태, 정진원, 이수진, 김재훈",
+            "info": "춘계학술발표논문집, Vol.30 No.1 pp.82-84 2003. 04. 한국정보과학회"
+        },
+        {
+            "title": "다중 DB환경에서의 디스크 접근 속도 향상을 위한 하이브리드 스트라이핑 기법",
+            "author": "고영배, 오창석, 임성화, 김재훈",
+            "info": "춘계학술발표논문집, Vol.30 No.1 pp.79-81 2003. 04. 한국정보과학회"
+        },
+        {
+            "title": "Genome scale protein secondary structure prediction using a data distribution on a grid computing",
+            "author": "Min-Kyu Cho, Soojin Lee, Jin-Won Jung, Jai-Hoon Kim, and Weontae Lee",
+            "info": "한국생물물리학회 학술발표회, Vol.10 No.1 pp.65 2003. 06. 한국생물물리학회"
+        },
+        {
+            "title": "A recent progress for solution structure determination of protein using NMR, bioinformatics and computer-aided automation platform",
+            "author": "Jai-Hoon Kim and Weontae Lee",
+            "info": "Sorak Conference 2003, Vol.16 No.1 pp.9 2003. 06. 한국생화학분자생물학회"
+        },
+        {
+            "title": "센서 네트워크의 예측 신뢰도 향상을 위한 적응적 보팅 알고리즘",
+            "author": "고영배, 서창수, 한국희, 김재훈",
+            "info": "Joint Conference on Communications and Information 2004, pp.261-263 2004. 04. 한국통신학회"
+        },
+        {
+            "title": "무선 센서 네트워크에서의 적응적 리포트 지연 기반 에너지 결함 예방 알고리즘",
+            "author": "고영배, 이동욱, 한국희, 김재훈",
+            "info": "Joint Conference on Communications and Information, pp.278-280 2004. 04. 한국통신학회"
+        },
+        {
+            "title": "Ad-Hoc 네트워크 환경에서 Look-up 서비스 정보의 일치성 유지 기법",
+            "author": "고영배, 최광훈, 김재훈",
+            "info": "춘계학술발표, Vol.31 No.1 pp.544-546 2004. 04. 한국정보과학회"
+        },
+        {
+            "title": "무선랜 위치 추적을 활용한 버스 교통의 지능형 교통 정보 시스템 구조",
+            "author": "강효성, 김재훈",
+            "info": "춘계학술발표, Vol.31 No.1 pp.502-504 2004. 04. 한국정보과학회"
+        },
+        {
+            "title": "충전이 가능한 전력 자원을 기반으로 한 프로세스 스케줄링 기법",
+            "author": "송영미, 김재훈",
+            "info": "추계학술발표, Vol.31 No.2 pp.571-573 2004. 10. 한국정보과학회"
+        },
+        {
+            "title": "이동 컴퓨팅 환경에서 비연결 수행을 위한 실시간 알고리즘",
+            "author": "고영배, 한국희, 김재훈",
+            "info": "추계학술발표, Vol.31 No.2 pp.415-417 2004. 10. 한국정보과학회"
+        },
+        {
+            "title": "그룹의 통합과 분리를 고려한 상호배제 알고리즘",
+            "author": "윤재희, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.32 No.1 pp.745-747 2005. 07. 한국정보과학회"
+        },
+        {
+            "title": "Embedded환경에서 CORBA POA의 효율적인 자원활용을 위한 POA Monitoring기법",
+            "author": "권성현, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.32 No.1 pp.655-657 2005. 07. 한국정보과학회"
+        },
+        {
+            "title": "컴포넌트기반 미들웨어에서 효율적인 컴포넌트 재구성",
+            "author": "권정호, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.32 No.1 pp.751-753 2005. 07. 한국정보과학회"
+        },
+        {
+            "title": "무선 센서 네트워크에서의 에너지 효율과 데이터 신뢰성 향상을 위한 동적 모니터링 주기 설정 기법",
+            "author": "이동욱, 이정아, 김재훈",
+            "info": "한국정보과학회 한국컴퓨터종합학술대회, Vol.33 No.1(D) pp.211-213 2006. 06. 한국정보과학회"
+        },
+        {
+            "title": "Reliable Distributed Lookup Service Scheme for Mobile Ad-hoc Networks",
+            "author": "Muhammad Ali Malik and Jai-Hoon Kim",
+            "info": "한국정보과학회 한국컴퓨터종합학술대회, Vol.33 No.1(D) pp.124-126 2006. 06. 한국정보과학회"
+        },
+        {
+            "title": "무선 센서 네트워크에서 에너지 소모를 줄이기 위한 계층별 패킷모음 기법",
+            "author": "정성영, 김재훈",
+            "info": "한국정보과학회 한국컴퓨터종합학술대회, Vol.33 No.1(D) pp.130-132 2006. 06. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 환경에서 서비스 이동을 이용한 동적 재구성의 설계와 구현",
+            "author": "조위덕, 권정호, 정성영, 김재훈",
+            "info": "2006 한국정보과학회 추계 학술대회, Vol.33 No.2(A) pp.424-428 2006. 10. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 환경에서 그룹 사이에서의 상호 배제 알고리즘",
+            "author": "조위덕, 윤재희, 김재훈",
+            "info": "2006 한국정보과학회 추계 학술대회, Vol.33 No.2(A) pp.459-463 2006. 10. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 오토노믹 커뮤니티 컴퓨팅 시스템에서의 추론모델 설계와 구현",
+            "author": "조위덕, 이병훈, 이은미, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.34 No.1(A) pp.252-253 2007. 06. 정보과학회"
+        },
+        {
+            "title": "유비쿼터스 환경에서의 JMX를 이용한 모니터링 구조 설계",
+            "author": "조위덕, 이병훈, 이효남, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.34 No.1(D) pp.279-284 2007. 06. 한국정보과학회"
+        },
+        {
+            "title": "자율적 커뮤니티 컴퓨팅 기반 유비쿼터스 시스템 플렛폼을 위한 효과적인 모니터링 방법",
+            "author": "조위덕, 권성현, 이동욱, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.34 No.1(A) pp.155-156 2007. 06. 한국정보과학회"
+        },
+        {
+            "title": "센서 네트워크를 위한 그리드 기반의 에너지 효율적인 라우팅 프로토콜",
+            "author": "이동욱, 정성영, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.34 No.1(A) pp.133-134 2007. 06. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 환경을 위한 상황인지 미들웨어의 모니터링 시스템 설계와 구현",
+            "author": "조위덕, 이정아, 임성화",
+            "info": "한국컴퓨터종합학술대회, Vol.34 No.1(A) pp.249-254 2007. 06. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 교통환경에서 실시간 데이터 저장을 위한 시스템 구조 및 저장 알고리즘",
+            "author": "백정희, 이정우, 백호현, 이동욱, 김재훈",
+            "info": "한국정보처리학회춘계학술대회, Vol.15 No.1 pp.557-560 2008. 05. 한국정보처리학회"
+        },
+        {
+            "title": "유비쿼터스 시스템을 위한 실시간 모니터링 에이전트",
+            "author": "조위덕, 권성현, 이병훈, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.35 No.1 pp.231-232 2008. 06. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 모니터링 시스템에서의 연관분석을 활용한 다중 상황 적응적 데이터 감시 전략",
+            "author": "조위덕, 이동욱, 장봉원, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.35 No.1 pp.394-399 2008. 06. 한국정보과학회"
+        },
+        {
+            "title": "유비쿼터스 환경에서의 상황 인지적 우선순위 기반의 실시간 스케줄링 기법",
+            "author": "임성화, 이효남, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.35 No.1 pp.388-393 2008. 06. 한국정보과학회"
+        },
+        {
+            "title": "실시간 유비쿼터스 지능공간 모니터링 시스템을 위한 에이전트와 스마트 객체 간의 부하 분산 기법",
+            "author": "정홍규, 이동욱, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.36 No.1 pp.326-327 2009. 07. 한국정보과학회"
+        },
+        {
+            "title": "분산시스템에서 데이터 압축이 저장시스템의 성능과 결함에 미치는 영향 분석",
+            "author": "민영혜, 이병훈, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.36 No.1 pp.324-325 2009. 07. 한국정보과학회"
+        },
+        {
+            "title": "분산처리를 통한 실시간 NCW 시스템",
+            "author": "박상혁, 김재훈",
+            "info": "한국컴퓨터종합학술대회, Vol.36 No.1 pp.245-250 2009. 07. 한국정보과학회"
+        },
+        {
+            "title": "가속도 센서와 기울기 센서를 이용한 낙상 인식 방법 연구",
+            "author": "이철민, 이동욱, 김재훈",
+            "info": "KICS 2010 동계종합학술발표회, Vol.41 pp.1-2 2010. 02. 한국통신학회"
+        },
+        {
+            "title": "모바일 환경에서의 효과적인 라이프 로깅과 재현 기법",
+            "author": "김민경, 이동욱, 김재훈",
+            "info": "KICS 2010 동계종합학술발표회, Vol.41 pp.1-2 2010. 02. 한국통신학회"
+        },
+        {
+            "title": "라이프 케어 모니터링에서 실시간성 성능향상",
+            "author": "김보연, 김영현, 박상혁, 김재훈",
+            "info": "한국 콘텐츠 학회 2010 춘계종합학술대회, pp.1-3 2010. 05. 한국 콘텐츠 학회"
+        },
+        {
+            "title": "라이프 케어 모니터링에서 실시간성 성능향상",
+            "author": "서상진, 김영현, 김재훈",
+            "info": "34회 한국정보처리학회 추계학술대회, pp.1-4 2010. 11. 한국정보처리학회"
+        },
+        {
+            "title": "이산 코사인 변환 기법을 이용한 선택적인 홍채영상 알고리즘",
+            "author": "최복천, 김찬중, 김재훈",
+            "info": "한국정보처리학회 추계학술대회, Vol.17 pp.1-4 2010. 11. 한국정보처리학회"
+        },
+        {
+            "title": "모바일 서비스 회귀성 시험 환경 구축을 위한 네트워크 시뮬레이터",
+            "author": "김응구, 김주형, 김재훈",
+            "info": "한국정보처리학회 추계학술대회, pp.1-4 2010. 11. 한국정보처리학회"
+        },
+        {
+            "title": "모바일 환경에서의 데이터 관리",
+            "author": "김치하, 이은재, 김재훈",
+            "info": "한국정보처리학회 추계학술대회, pp.1-4 2010. 11. 한국정보처리학회"
+        },
+        {
+            "title": "홍채 인식 시스템의 응용 프레임워크 구현",
+            "author": "한경희, 전진호, 김재훈",
+            "info": "한국정보처리학회 추계학술대회, pp.1-4 2010. 11. 한국정보처리학회"
+        },
+        {
+            "title": "가상 네트워크 망에서의 효율적인 테스트 시나리오 관리 기법",
+            "author": "김응구, 장준영, 김재훈",
+            "info": "34회 정보처리학회 추계학술대회, pp.1-4 2010. 11. 한국정보처리학회"
+        },
+        {
+            "title": "중복제거 성능분석 모델",
+            "author": "김영규, 민영혜, 이철민, 김재훈",
+            "info": "2011 한국정보과학회/정보처리학회 공동 학술 심포지움, Vol.5 No.1 2011. 06. 한국정보과학회/정보처리학회"
+        },
+        {
+            "title": "중복제거 성능 평가 도구",
+            "author": "이철민, 김재훈",
+            "info": "정보과학회 추계학술발표회, Vol.38 No.2 pp.89-91 2011. 11. 정보과학회"
+        },
+        {
+            "title": "유비쿼터스 환경에서의 라이프로그 컨텍스트 모델링",
+            "author": "김민경, 이동욱, 김강석, 김재훈",
+            "info": "정보과학회 추계학술발표회, Vol.38 No.2 pp.126-128 2011. 11. 정보과학회"
+        },
+        {
+            "title": "선택적 중복제거(De-Duplication) 기법",
+            "author": "민영혜, 김영규, 이철민, 김재훈",
+            "info": "정보과학회 추계학술발표회, Vol.38 No.2 pp.260-262 2011. 11. 정보과학회"
+        },
+        {
+            "title": "고가용성 중복제거 기법",
+            "author": "김영규, 이철민, 김재훈",
+            "info": "한국정보처리학회 추계학술발표대회 논문집, Vol.19 No.2 2012. 11."
+        },
+        {
+            "title": "대용량 데이터의 중복제거 성능시험",
+            "author": "김영규, 이철민, 김재훈",
+            "info": "한국정보처리학회 추계학술발표대회 논문집, Vol.19 No.22 2012. 11."
+        },
+        {
+            "title": "인간과 로봇의 상호작용을 위한 안전한 결제 인증 프로토콜",
+            "author": "문승빈, 김재훈, 최태우, 최옥경",
+            "info": "2013년도 제28차 정기총회 및 추계학술발표대회, Vol.14 No.2 pp.235-236 2013. 11. 한국인터넷정보학회"
+        },
+        {
+            "title": "분산 환경에서의 효율적인 E-Book 변환을 위한 작업 배분",
+            "author": "안재호, 황동엽, 최광훈, 강민지, 김재훈",
+            "info": "2014년 한국정보처리학회 춘계학술발표대회, Vol.21 No.1 pp.97-100 2014. 04. 한국정보처리학회"
+        },
+        {
+            "title": "무선 센서네트워크에서 모바일싱크 기반 비용 효율적인 데이터수집 기법",
+            "author": "김재훈, 이상언, 이택균, 홍만표",
+            "info": "한국통신학회 하계종합학술발표회, 2015. 06. 한국통신학회"
+        },
+        {
+            "title": "결함허용 분산 공유 메모리 시스템 비용 분석",
+            "author": "ALHARBI FAHAD JAZIA, TEMESGEN SEYOUM ALEMAYEHU, 김재훈",
+            "info": "한국인터넷정보학회 (2015년 추계학술발표대회), Vol.16 No.2 pp.161-162 2015. 10. 한국인터넷정보학회"
+        },
+        {
+            "title": "드론을 활용한 협업기반의 효율적인 대상물 추적 알고리즘",
+            "author": "윤현경, 최광훈, 김재훈",
+            "info": "2016 정보처리학회 춘계학술발표대회, Vol.23 No.1 pp.42-45 2016. 04. 한국정보처리학회"
+        },
+        {
+            "title": "드론 배달 경로를 위한 효율적인 휴리스틱 알고리즘",
+            "author": "KELKILE YONATAN AYALEW, TEMESGEN SEYOUM ALEMAYEHU, 김재훈",
+            "info": "2016 정보처리학회 춘계학술발표대회, Vol.23 No.1 pp.168-170 2016. 04. 한국정보처리학회"
+        },
+        {
+            "title": "드론을 이용한 대상물 침입 감지에 관한 연구",
+            "author": "김민국, 최광훈, 김재훈",
+            "info": "2016 정보처리학회 춘계학술발표대회, Vol.23 No.1 pp.916-918 2016. 04. 한국정보처리학회"
+        },
+        {
+            "title": "GPS 기반의 드론과 VR을 활용한 드론뷰 콘텐츠 설계",
+            "author": "현만석, 최광훈, 김재훈",
+            "info": "2016 정보처리학회 춘계학술발표대회, Vol.23 No.1 pp.171-174 2016. 04. 한국정보처리학회"
+        },
+        {
+            "title": "PIXHAWK와 DRONEKIT을 활용한 인명 구조 시스템 설계 및 구축",
+            "author": "현만석, 최광훈, 김재훈",
+            "info": "2016 한국정보처리학회 추계학술발표대회, pp.71-74 2016. 11."
+        },
+        {
+            "title": "드론을 이용한 다중 임무수행 시스템 설계",
+            "author": "윤현경, 김민국, 최광훈, 김재훈",
+            "info": "2016 한국정보처리학회 추계학술발표대회, pp.731-732 2016. 11."
+        },
+        {
+            "title": "초음파 센서와 서보모터를 사용한 드론 충돌 회피 시스템",
+            "author": "이승원, 현만석, 최광훈, 김재훈",
+            "info": "2017년도 한국통신학회 하계종합학술대회, pp.1188-1189 2017. 06."
+        },
+        {
+            "title": "LoRa 통신을 이용한 실종자 드론탐색 단계별 알고리즘 구현",
+            "author": "최광훈, 김재훈",
+            "info": "2017년도 한국통신학회 하계종합학술발표회, pp.1256-1257 2017. 06."
+        },
+        {
+            "title": "DroneKit-SITL과 초음파센서를 활용한 드론 자율주행 가상화 구현",
+            "author": "현만석, 최광훈, 김재훈",
+            "info": "2017년도 한국통신학회 하계종합학술발표회, pp.1254-1255 2017. 06."
+        },
+        {
+            "title": "드론을 이용한 취약한 IoT 환경의 위협 및 대응 방안 분석",
+            "author": "고주성, 최광훈, 김재훈",
+            "info": "2017년 한국정보보호학회 하계학술대회, pp.486-490 2017. 06."
+        },
+        {
+            "title": "CCTV와 드론의 협업을 통한 지역감시 연구",
+            "author": "김대한, 최광훈, 김재훈",
+            "info": "한국통신학회 2017년도 추계종합학술발표회, pp.495-496 2017. 11."
+        },
+        {
+            "title": "이더리움 스마트 컨트랙트 기반 자동 프린터 관리 시스템",
+            "author": "김가현, 김대한, 최광훈, 김강석, 김재훈",
+            "info": "정보처리학회 추계학술발표대회, pp.85-86 2018. 11."
+        },
+        {
+            "title": "효율적인 이더리움 스마트 콘트랙트에 관한 연구",
+            "author": "김대한, 최광훈, 김강석, 김재훈",
+            "info": "정보처리학회 추계학술발표대회, pp.82-83 2018. 11."
+        },
+        {
+            "title": "임베디드 리눅스 기술 및 시장 동향 조사",
+            "author": "이재성, 정승식, 정종광, 최창렬, 김재훈",
+            "info": "2001. 04. 정보통신연구진흥원"
+        },
+        {
+            "title": "이동컴퓨팅 시스템을 위한 결함허용 실시간 데이터 전달 및 관리기법에 관한 연구",
+            "author": "김재훈",
+            "info": "2001. 06. 한국학술진흥재단"
+        },
+        {
+            "title": "인터넷 접속 임베디드 시스템의 원격 진단 및 관리 방안 연구",
+            "author": "김재훈",
+            "info": "2001. 12. 한국과학재단"
+        },
+        {
+            "title": "BioGrid를 이용한 단백질 서열정렬 및 구조예측 알고리즘 연구와 소프트웨어 개발",
+            "author": "김재훈",
+            "info": "2002. 10. 보건의료기술연구기획평가단"
+        },
+        {
+            "title": "인터넷 접속 임베디드 시스템의 원격 진단 및 관리 방안 연구",
+            "author": "김재훈",
+            "info": "2003. 05. "
+        },
+        {
+            "title": "이동 컴퓨팅 자원의 변화에 적응적이고 통신망 단절을 극복할 수 있는 방안 연구",
+            "author": "김재훈",
+            "info": "2003. 07. 정보통신연구진흥원"
+        },
+        {
+            "title": "저전력 소비와 저비용의 모바일 라우팅 기법에 관한 연구",
+            "author": "김재훈",
+            "info": "2003. 12. 한국학술진흥재단"
+        },
+        {
+            "title": "BioGrid를 이용한 단백질 서열정렬 및 구조예측 알고리즘 연구와 소프트웨어 개발",
+            "author": "김재훈",
+            "info": "2003. 12. 한국보건산업진흥원"
+        },
+        {
+            "title": "유비쿼터스 환경적응 reconfiguration 기법 개발",
+            "author": "고영배, 김재훈",
+            "info": "2004. 02. 한국통신데이터"
+        },
+        {
+            "title": "무선 의료 정보망을 위한 센서 네트워크 기술 연구",
+            "author": "Viachaslau Tuzlukau, 김재현, 최기주, 김재훈",
+            "info": "2004. 09. 정보통신연구진흥원"
+        },
+        {
+            "title": "uT 복합 환경에서의 자율형 분산 적응 시스템 개발",
+            "author": "고영배, 김재훈",
+            "info": "2005. 03. 성균관대학교"
+        },
+        {
+            "title": "무선 의료 정보망을 위한 센서 네트워크 기술 연구",
+            "author": "Jin Xin, Sajjad Hussain, Vyacheslav Tuzlukov, 김재현, 이채우, Saurabh Mehta, 박성호, 송영미, 오성민, 이동욱, 이현주, 정세훈, 차창호, 한국희, 김재훈",
+            "info": "2005. 10. 정보통신연구진흥원"
+        },
+        {
+            "title": "실용 센서네트워크에서 데이터 신뢰성 및 에너지 소비의 균형과 효율성을 높이는 데이터 센싱기법 및 전송기법에 대한 연구",
+            "author": "이동욱, 김재훈",
+            "info": "2008. 09. 한국학술진흥재단"
+        },
+        {
+            "title": "지능공간 모니터링을 이용한 맞춤형 데이터 검색 서비스 제공 및 공정한 데이터 서비스 스케쥴링 기법",
+            "author": "이병훈, 김재훈",
+            "info": "2008. 09. 한국학술진흥재단"
+        },
+        {
+            "title": "데이터 압축 및 De-duplication을 이용한 스토리지 시스템의 최적화 및 신뢰성 연구",
+            "author": "김영규, 장봉원, 정홍규, 김재훈",
+            "info": "2009. 11. 정보통신연구진흥원"
+        },
+        {
+            "title": "소프트웨어 재활 기법을 적용한 다중계 시스템의 가용도 분석",
+            "author": "김재훈, 박기진",
+            "info": "정보과학회 논문지(시스템및이론), Vol.27 No.8 pp.730-740 2000. 08. 한국정보과학회"
+        },
+        {
+            "title": "실시간 OS기술 및 시장분석과 향후 전망 연구",
+            "author": "김진삼, 김재훈, 김남광, 남동훈, 백상현, 오정섭, 박승규",
+            "info": "1999. 12. 한국전자통신연구원"
+        },
+        {
+            "title": "Extended OTP mechanism based on graphical password method",
+            "author": "Taeshik Shon, Okkyung Choi, Kangseok Kim, Manpyo Hong, Hongjin Yeh, Jai-Hoon Kim, and Yunlim Ku",
+            "info": "2012. 06. FutureTech 2012"
+        },
+        {
+            "title": "이동컴퓨팅시스템/이동에이젼트시스템의 핵심기술 연구",
+            "author": "김재훈, 임재성, 조영종, 예홍진",
+            "info": "2000. 06. 정보통신부"
+        },
+        {
+            "title": "이동컴퓨팅시스템/이동에이젼트시스템의 핵심기술 연구",
+            "author": "김재훈, 임재성, 조영종, 예홍진",
+            "info": "2001. 07. 정보통신연구진흥원"
+        },
+        {
+            "title": "데이터 센터에서의 에너지 절약을 위한 유비쿼터스 센서 네트워크 기반의 적응적 분산 냉각 전략",
+            "author": "오상윤, 박성우, 이동욱, 김재훈",
+            "info": "2009 한국컴퓨터종합학술대회 (KCC 2009), Vol.1 No.1 pp.266-271 2002. 04. 한국정보과학회"
+        },
+        {
+            "title": "Effect of transmission power adjustments on network availability",
+            "author": "Jai-Hoon Kim, Ali Hammad Akbar, and Won-Sik Yoon",
+            "info": "Information Technology Journal, Vol.4 No.3 pp.271-273 2005. 07. Asian Network for Scientific Information"
+        },
+        {
+            "title": "Multi-level clustering architecture for wireless sensor networks",
+            "author": "Jai-Hoon Kim, Yulin He, and Won-Sik Yoon",
+            "info": "Information Technology Journal, Vol.5 No.1 pp.188-191 2006. 01. Asian Network for Scientific Information"
+        },
+        {
+            "title": "Collaborative wireless sensor networks for target detection based on the generalized approach to signal processing",
+            "author": "Yong Deak Kim, Jai-Hoon Kim, and Won-Sik Yoon",
+            "info": "International Conference on Control, Automation, and Systems, Vol.1 No.1 pp.1999-2005 2005. 06. ICCAS"
+        },
+        {
+            "title": "U-Kitchen:Application Scenario",
+            "author": "We-Duke Cho,  Jai-Hoon Kim, J.A. Ali, and Won-Sik Yoon",
+            "info": "Second IEEE Workshop on Software Technologies for Futute Embedded and Ubiquitous Systems, Vol.1 No.1 pp.169-171 2004. 05. IEEE Computer Scoiety"
+        },
+        {
+            "title": "An Improved Fast Handover Scheme for Mobile IPv6-Based Real-time Wireless Internet Traffic",
+            "author": "김재훈, 조위덕, 이병진, 윤원식",
+            "info": "한국통신학회 추계종합학술대회, Vol.28 pp.426-429 2003. 12. 한국통신학회"
+        },
+        {
+            "title": "환경에 적응하고 결함을 예방할 수 있는 지능형 협업 센서네트워크 연구",
+            "author": "Shaokai YU, 김재훈, 윤원식",
+            "info": "2004. 06. 한국과학재단"
+        },
+        {
+            "title": "환경에 적응하고 결함을 예방할 수 있는 지능형 협업 센서네트워크 연구",
+            "author": "김재훈, 윤원식",
+            "info": "2005. 06. 한국과학재단"
+        },
+        {
+            "title": "환경에 적응하고 결함을 예방할 수 있는 지능형 협업 센서네트워크 연구",
+            "author": "정대인, 김지훈, 김재훈, 기상렬, 박성호, 송영미, 안성우, 이동욱, 이병훈, 임성화, 정희철, 윤원식",
+            "info": "2006. 11. 한국과학재단"
+        },
+        {
+            "title": "Predicting Personal Information Behaviors with Lifelog Data",
+            "author": "Dong-Wook Lee, Jai-Hoon Kim, Kangseok Kim, We-Duke Cho, and Minkyung Kim",
+            "info": "The 9th International Conference & Expo on Emerging Technologies for a Smarter World (CEWIT 2012), 2012. 11."
+        },
+        {
+            "title": "높은 에너지 효율로 개선된 S-MAC 프로토콜을 이용한 센서 네트워크 시스템의 구현",
+            "author": "Donald Martin Wiberg, Thaiyan Mahalingam, 고영배, 김재훈, 박성진, 이채우, 최경희, 최기주, 고경철, 김장복, 김정현, 김현덕, 문호선, 박재홍, 박창우, 손동민, 양근혁, 옥치영, 이동욱, 이병훈, 이송섭, 이홍석, 임성화, 임여울, 조용원, 치앙마,  김용득, 정기현",
+            "info": "전자공학회 CI, Vol.44 No.2 pp.25-30 2007. 03. 전자공학회"
+        },
+        {
+            "title": "차량사고재현을 위한 임베디드시스템 핵심기술",
+            "author": "Andon V. Topalov, Jan Pajak, Thai, Vyacheslau Tuzlukou, 김용득, 김재훈, 박성진, 이정원, 최경희, 김장복, 김정현, 김현덕, 문호선, 박창우, 박현상, 이기현, 이동욱, 이병훈, 이준희, 이홍석, 이효남, 정성영, 한성덕, 허제호, 정기현",
+            "info": "2008. 01. 정보통신연구진흥원"
+        },
+        {
+            "title": "A Dynamic Sensing Cycle Decision Scheme for Engergy Efficiency and Data Reliability in Wireless Sensor Networks",
+            "author": "We-Duke Cho, Jan Pajak, Dong-Wook Lee, Jeong-Ah Lee, and Jai-Hoon Kim",
+            "info": "ICIC 2007, pp.218-229 2007. 08. International Conference on Intelligent Computing"
+        },
+        {
+            "title": "유비쿼터스 커뮤니티 컴퓨팅시스템 통합 플랫폼 및 지능공간 구현",
+            "author": "김은영, 이미연, 전지혜,  곽노준, 김성수, 김영길, 김재훈, 오상윤, 이정원, 김순동, 김양원, 김진형, 김현숙, 남윤영, 박은정, 박희정, 신진아, 양효진, 유관종, 유성훈, 이민아, 이창열, 조규찬, 조성은, 채혁기, 최재동, 강석범, 권성현, 김명기, 김보라, 김태수, 류정훈, 박정욱, 박화범, 변유인, 서재길, 안광호, 안종찬, 이건희, 이동욱, 이병훈, 이은미, 이재우, 이정아, 이효남, 임성화, 장봉원, 정성영, 조용원, 최유리, 강태훈, 김민우, 김태겸, 김현우, 박창규, 최요한, 조위덕",
+            "info": "2008. 02. 유비쿼터스컴퓨팅사업단"
+        },
+        {
+            "title": "자가성장 u-지능공간 커뮤니티 시스템 통합 플랫폼 및 응용 테스트베드 개발 3단계 3차년도 연차(평가용)보고서",
+            "author": "김영길, 김재훈, 이정원, 남윤영, 김양원, 김진형, 박희정, 양효진, 박윤주, 노형석, 황용현, 허익현, 김태윤, 김경숙, 이동욱, 양휘석, 최선탁, 이미연, 박창규, 장현웅, 김민경, 공성훈, 변재령, 김지훈, 최용훈, 조위덕",
+            "info": "2011. 11."
+        },
+        {
+            "title": "자가성장 u-지능공간 커뮤니티 시스템 통합 플랫폼 및 응용 테스트베드 개발",
+            "author": "이정원, 김재훈, 이동욱, 백재순, 조위덕",
+            "info": "2013. 01."
+        },
+        {
+            "title": "융합지식기반 라이프스타일 자율케어 시스템에 관한 상세기획 연구",
+            "author": "이정원, 김경일, 이동욱, 백재순, 김재훈, 조위덕",
+            "info": "2013. 06."
+        },
+        {
+            "title": "Zero-copy 기술을 이용한 PVM의 성능 개선",
+            "author": "문성근, 김재훈, 정기현, 심재홍, 임성택, 최경희",
+            "info": "한국통신학회논문지, Vol.25 No.5B pp.899-912 2000. 05. 한국통신학회"
+        },
+        {
+            "title": "Performance Evaluation of On-line Scheduling Algorithms for Imprecise Computation",
+            "author": "SeunHun Jung, Jai-Hoon Kim, Gihyun Jung, Kihyun Song, and Kyunghee Choi",
+            "info": "Real-Time Computing Systems and Applications, Vol.5 No.1 pp.217-222 1998. 10. IEEE Computer Society RTS"
+        },
+        {
+            "title": "SYstem Area Network에 기반한 Scalable VOD Server의 설계 및 구현",
+            "author": "심재홍, 김재훈, 정기현, 강봉직, 조재호, 최경희",
+            "info": "'98년 가을 학술발표논문집, Vol.25 No.2 pp.83-85 1998. 10. 한국정보과학회"
+        },
+        {
+            "title": "우선순위 상속 전략을 이용한 내재 스케줄링",
+            "author": "박중기, 김재훈, 정기현, 오정섭, 정석용, 최경희",
+            "info": "'98년 추계학술발표논문집, Vol.25 No.2 pp.86-88 1998. 10. 한국정보과학회"
+        },
+        {
+            "title": "공유 메모리와 사용자 수준 통신을 이용한 PVM 성능 개선",
+            "author": "문경덕, 김재훈, 정기현, 심재홍, 윤종원, 최경희",
+            "info": "'98 가을 학술발표논문집, Vol.25 No.2 pp.139-141 1998. 10. 한국정보과학회"
+        },
+        {
+            "title": "NFC-USIM 인증서를 이용한 전자 결제 인증 프로토콜",
+            "author": "최옥경, 김재훈, 최태우",
+            "info": "제 37 회 한국정보처리학회 춘계학술발표대회, 2012. 04."
+        }
+    ]
+}

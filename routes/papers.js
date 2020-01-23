@@ -13,10 +13,9 @@ var fs = require('fs');
 // });
 // connection.connect();
 
-
 /* GET home page. */
 router.get('/', function (req, res, next) {
-  var jsonFile = fs.readFileSync('./public/files/papers.json')
+  var jsonFile = fs.readFileSync('./public/files/paper.json')
 
   var obj = JSON.parse(jsonFile);
   var obj_length = Object.keys(obj.papers).length;

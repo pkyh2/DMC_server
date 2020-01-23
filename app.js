@@ -19,6 +19,7 @@ var healthRouter = require('./routes/health');
 var networkRouter = require('./routes/network');
 var etherappRouter = require('./routes/etherapp');
 var energyRouter = require('./routes/energy');
+var educationRouter = require('./routes/education');
 
 
 var app = express();
@@ -45,6 +46,7 @@ app.use('/health', healthRouter);
 app.use('/network', networkRouter);
 app.use('/etherapp', etherappRouter);
 app.use('/energy', energyRouter);
+app.use('/education', educationRouter);
 
 // app.use('/admin', adminRouter);
 
