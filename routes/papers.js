@@ -2,6 +2,12 @@ var express = require('express');
 var router = express.Router();
 var fs = require('fs');
 
+var jsonFile = fs.readFileSync('./public/files/paper.json')
+
+var obj = JSON.parse(jsonFile);
+var obj_length = Object.keys(obj.papers).length;
+
+
 // db setup
 // var mysql = require('mysql');
 // var connection = mysql.createConnection({
@@ -15,10 +21,6 @@ var fs = require('fs');
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
-  var jsonFile = fs.readFileSync('./public/files/paper.json')
-
-  var obj = JSON.parse(jsonFile);
-  var obj_length = Object.keys(obj.papers).length;
 
   console.log(obj.papers[0]);
   console.log(obj.papers[1]);
@@ -41,5 +43,24 @@ router.get('/', function (req, res, next) {
   //   res.render('papers', { title: 'Distributed Mobile Computing', rows: rows});
   // });
 });
+
+
+router.post('/', function(req, res, next){
+  var keyword = req.body.keyword;
+
+
+  console.log(obj.papers[0]);
+  console.log(obj.papers[1]);
+  console.log(obj_length)
+
+  for(var i=0; i<3; i++){
+    if(keyword == obj.papers[i].title)
+
+
+    console.log(obj.papers[i])
+  }
+
+})
+
 module.exports = router;
 

@@ -347,3 +347,15 @@ ul{
   }
   
 }
+
+
+.keyword{
+  padding: 5px 20px;
+  width: 300px;
+  line-height: inherit !important;
+  font-size: 15px;
+}
+
+.keyword::placeholder {
+  font-family: "Font Awesome 5 Free";
+}

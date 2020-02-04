@@ -1,47 +1,55 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <%- include('partials/head') %>
+    <title><%= title %></title>
+  </head>
 
-<head>
-  <%- include('partials/head') %>
-  <title><%= title %></title>
-</head>
+  <body>
+    <%- include('partials/navbar') %>
 
-<body>
-  <%- include('partials/navbar') %>
-
-  <div class="section">
-
-    <div class="page-title">Papers</div>
-
-    <div class="btn-group">
-      <button type="button" id="all" class="filter-btn active" name="button">전체</button>
-      <button type="button" id="sci" class="filter-btn" name="button">SCI</button>
-      <button type="button" id="non-sci" class="filter-btn" name="button">NON-SCI</button>
-    </div>
-
-
-    <% for(var i=0; i<obj_length; i++) { %>
-    <div class="row list" style="padding: 20px 25px;">
-      <div class="col-lg-1 col-sm-1" style="text-align: center;" >
-        <%= i+1 %>
+    <div class="section">
+      <div class="page-title">Papers</div>
+      <div class="btn-group">
+        <button type="button" id="all" class="filter-btn active" name="button">전체</button>
+        <button type="button" id="sci" class="filter-btn" name="button">SCI</button>
+        <button type="button" id="non-sci" class="filter-btn" name="button">NON-SCI</button>
+        <input type="text" id="keyword" class="keyword fas" placeholder="&#xf002; 검색어를 입력하세요">
       </div>
-      <div class="col-lg-11 col-sm-11">
-        <div class="paper-title">
-          <%= papers.papers[i].title %>
+
+      <% for(var i=0; i<obj_length; i++) { %>
+        <div class="row list" id="test" style="padding: 20px 25px;">
+          <div class="col-lg-1 col-sm-1" style="text-align: center;" >
+            <%= i+1 %>
+          </div>
+          <div class="col-lg-11 col-sm-11">
+            <div class="paper-title">
+              <%= papers.papers[i].title %>
+            </div>
+            <div class="paper-writer">
+              <%= papers.papers[i].author %>
+            </div>
+            
+            <div class="paper-info">
+              <%= papers.papers[i].info %>
+            </div>
+          </div>
         </div>
-        <div class="paper-writer">
-          <%= papers.papers[i].author %>
-        </div>
-        
-        <div class="paper-info">
-          <%= papers.papers[i].info %>
-        </div>
-      </div>
+      <% } %>
     </div>
-    <% } %>
+    <%- include('partials/footer') %>  
+  </body>
 
-  </div>
-  <%- include('partials/footer') %>
-
-</body>
 </html>
+
+<script>
+  // search
+  $(document).ready(function(){
+    $("#keyword").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $(".paper-title").filter(function() {
+        $(this).parent().parent().toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+    });
+  });
+</script>
